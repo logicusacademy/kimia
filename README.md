@@ -1,4 +1,4 @@
-# 📘 Kimia SMA — Kurikulum Merdeka
+# 📘 [Kimia SMA — Kurikulum Merdeka](#kimia-sma-kurikulum-merdeka)
 
 Silabus lengkap dan terstruktur untuk jenjang **SMA/MA**, disusun berdasarkan **Kurikulum Merdeka** dengan pendekatan konseptual, kontekstual, dan bebas miskonsepsi.  
 Setiap topik di bawah ini dapat diklik langsung menuju bagian terkait pada file atau laman web yang sesuai.
@@ -86,7 +86,7 @@ Menjelaskan konsep polimerisasi adisi dan kondensasi, jenis polimer alam dan sin
 
 ---
 
-## 🧭 Tujuan Pembelajaran
+# 🧭 Tujuan Pembelajaran
 - Mengembangkan **pemahaman konseptual dan analitis** terhadap fenomena kimia.  
 - Menghindari **miskonsepsi umum** melalui penalaran ilmiah berbasis bukti.  
 - Menumbuhkan **literasi sains, lingkungan, dan teknologi (STEM)**.  
@@ -94,9 +94,9 @@ Menjelaskan konsep polimerisasi adisi dan kondensasi, jenis polimer alam dan sin
 
 ---
 
-## ©️ Lisensi: [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+# ©️ Lisensi: [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 © 2025 — *Logicus Academy & [sabirin.ID](https://www.instagram.com/sabirin.id/)*
 
 ---
 
-[🔝 Kembali ke atas](#kimia-sma--kurikulum-merdeka)
+[🔝 Kembali ke atas](#kimia-sma-kurikulum-merdeka)
