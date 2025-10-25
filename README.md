@@ -95,7 +95,7 @@ Menjelaskan konsep polimerisasi adisi dan kondensasi, jenis polimer alam dan sin
 ---
 
 ### Legal
-© 2025 Logicus Academy & [sabirin.ID](https://www.instagram.com/sabirin.id/)
+© 2024–2025 Logicus Academy. All rights reserved.
 
 ---
 
