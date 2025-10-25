@@ -1,0 +1,456 @@
+<!DOCTYPE html><html lang="id" data-theme="auto">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Rangkuman Kimia SMA — Kurikulum Merdeka</title>
+  <meta name="description" content="Daftar isi Kimia SMA Kurikulum Merdeka: ringkasan konsep, rumus, dan klarifikasi miskonsepsi untuk kelas 10, 11, dan 12." />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --unesco-blue:#0066cc; --unesco-blue-700:#004b9b; --light:#e8f0ff;
+      --ink:#0f172a; --muted:#4b5563; --bg:#f7f9fc; --card:#ffffff; --border:#e5e7eb;
+      --danger:#d93025; --success:#15803d; --shadow:0 2px 8px rgba(0,0,0,.08);
+    }
+    /* Dark theme */
+    @media (prefers-color-scheme: dark){
+      :root{ --ink:#e5e7eb; --muted:#cbd5e1; --bg:#0b1220; --card:#0f172a; --border:#1f2a44; --light:#0e2a52; --unesco-blue:#1d4ed8; --unesco-blue-700:#1e40af; --shadow:0 2px 10px rgba(0,0,0,.35); }
+    }
+    [data-theme="dark"]{ --ink:#e5e7eb; --muted:#cbd5e1; --bg:#0b1220; --card:#0f172a; --border:#1f2a44; --light:#0e2a52; --unesco-blue:#1d4ed8; --unesco-blue-700:#1e40af; --shadow:0 2px 10px rgba(0,0,0,.35); }*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font-family:'Inter',system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.7}
+
+/* Topbar */
+.topbar{position:sticky;top:0;z-index:50;background:var(--unesco-blue);color:#fff;box-shadow:var(--shadow)}
+.container{max-width:1100px;margin:auto;padding:0 1rem}
+.topbar-inner{display:flex;align-items:center;gap:.8rem;justify-content:space-between;height:64px}
+.brand{display:flex;align-items:center;gap:.6rem;font-weight:700;letter-spacing:.3px;text-decoration:none;color:#fff}
+.brand-mark{display:grid;place-items:center;width:30px;height:30px;border-radius:6px;background:rgba(255,255,255,.18)}
+.nav{display:flex;align-items:center;gap:1rem}
+.nav a{color:#eaf2ff;text-decoration:none;font-size:.95rem}
+.nav a:hover{opacity:.9;text-decoration:underline}
+.actions{display:flex;align-items:center;gap:.5rem}
+.btn{appearance:none;border:1px solid rgba(255,255,255,.35);background:transparent;color:#fff;border-radius:10px;padding:.45rem .7rem;font-weight:600;cursor:pointer}
+.btn:hover{background:rgba(255,255,255,.12)}
+.searchbox{position:relative}
+.searchbox input{width:230px;max-width:48vw;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.12);color:#fff;padding:.45rem .75rem;border-radius:10px}
+.searchbox input::placeholder{color:#eaf2ff}
+
+/* Hero */
+.hero{background:linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(255,255,255,.08) 100%), var(--unesco-blue);color:#fff;padding:12px 0 18px 0}
+.hero h1{margin:0;font-size:1.9rem}
+.hero p{margin:.35rem 0 0 0;opacity:.95}
+
+/* Layout */
+main{padding:18px 0}
+.grid{display:grid;grid-template-columns:280px 1fr;gap:18px}
+@media (max-width:900px){.grid{grid-template-columns:1fr}}
+
+/* Sidebar TOC */
+.toc{position:sticky;top:88px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:12px}
+.toc h3{margin:0 0 .4rem 0;font-size:1rem;color:#fff;background:var(--unesco-blue);display:inline-block;padding:.25rem .5rem;border-radius:6px}
+.toc a{display:block;padding:6px 8px;border-radius:8px;text-decoration:none;color:var(--ink);font-size:.95rem}
+.toc a:hover{background:var(--light)}
+.badge{display:inline-block;background:var(--light);color:#eaf2ff;font-weight:700;font-size:.75rem;border-radius:999px;padding:2px 10px;margin-right:.4rem}
+
+/* Cards / sections */
+section.card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px;box-shadow:var(--shadow)}
+section.card:not(:last-child){margin-bottom:16px}
+h2{color:#fff;background:var(--unesco-blue);display:inline-block;padding:.25rem .6rem;border-radius:8px;margin:.2rem 0 1rem 0}
+h3{color:var(--unesco-blue-700);margin:1.1rem 0 .4rem 0}
+p{margin:.4rem 0}
+ul,ol{margin:.3rem 0 .8rem 1.2rem}
+
+/* Tables */
+table{width:100%;border-collapse:collapse;margin:.7rem 0;border:1px solid var(--border);font-size:.95rem}
+th,td{border:1px solid var(--border);padding:8px;text-align:left;vertical-align:top}
+th{background:var(--light);color:#eaf2ff;background:linear-gradient(0deg, var(--unesco-blue) 0%, var(--unesco-blue-700) 100%)}
+
+/* Callouts */
+.note,.warn,.tip{border-left:4px solid;padding:.75rem 1rem;border-radius:6px;background:var(--card);border:1px solid var(--border)}
+.note{border-color:#0891b2;background:rgba(14,165,233,.08)}
+.tip{border-color:var(--success);background:rgba(34,197,94,.08)}
+.warn{border-color:var(--danger);background:rgba(217,48,37,.08);color:var(--ink)}
+
+/* Footer */
+footer{margin:24px 0 0 0;background:#eaf2ff;color:#1f2937}
+.footer-inner{padding:16px 0;text-align:center;font-size:.95rem}
+.muted{color:var(--muted)}
+code,kbd{background:#0b2347; color:#eaf2ff; border:1px solid var(--border);border-radius:6px;padding:0 .35rem;font-family:ui-monospace,Menlo,Consolas,monospace}
+
+/* Back-to-top button */
+.to-top{position:fixed;right:16px;bottom:16px;z-index:60;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s}
+.to-top.show{opacity:1;visibility:visible;transform:translateY(0)}
+.to-top button{background:var(--unesco-blue);color:#fff;border:none;border-radius:999px;padding:.7rem .9rem;box-shadow:var(--shadow);cursor:pointer;font-weight:700}
+.to-top button:hover{filter:brightness(1.05)}
+
+mark{background:#fff59d;color:#111;padding:0 .15em;border-radius:2px}
+
+  </style>
+</head>
+<body>
+  <!-- Topbar -->
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a class="brand" href="#">
+        <span class="brand-mark" aria-hidden>
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="#fff"><path d="M3 6h18v2H3zM5 9h2v9H5zm6 0h2v9h-2zm6 0h2v9h-2zM3 19h18v2H3z"/></svg>
+        </span>
+        <span>Kimia SMA — Kurikulum Merdeka</span>
+      </a>
+      <nav class="nav" aria-label="Global">
+        <a href="#kelas-10">Kelas 10</a>
+        <a href="#kelas-11">Kelas 11</a>
+        <a href="#kelas-12">Kelas 12</a>
+      </nav>
+      <div class="actions">
+        <div class="searchbox" role="search">
+          <input id="q" type="search" placeholder="Cari topik (mis. redoks, buffer)" aria-label="Cari topik" />
+        </div>
+        <button id="themeBtn" class="btn" aria-label="Toggle tema">Tema</button>
+      </div>
+    </div>
+    <div class="hero">
+      <div class="container">
+        <h1>Daftar Topik Kimia SMA</h1>
+        <p>Panduan ringkas berbasis konsep.</p>
+      </div>
+    </div>
+  </header>  <main class="container">
+    <div class="grid">
+      <!-- TOC -->
+      <aside class="toc" aria-label="Daftar isi">
+        <h3>Ringkasan Isi</h3>
+        <a href="#kelas-10"><span class="badge">KELAS 10</span> Pengantar, Atom, SPU, Ikatan, Reaksi, Elektrolit, Stoikiometri, Kimia Hijau</a>
+        <a href="#kelas-11"><span class="badge">KELAS 11</span> Hidrokarbon, Termokimia, Kinetika, Kesetimbangan, Asam–Basa, Hidrolisis, Buffer, Titrasi, Ksp, Koloid</a>
+        <a href="#kelas-12"><span class="badge">KELAS 12</span> Koligatif, Redoks, Elektrokimia, Turunan Alkana, Benzena, Polimer</a>
+      </aside><!-- CONTENT -->
+  <div id="content">
+    <!-- ===================== KELAS 10 ===================== -->
+    <section id="kelas-10" class="card" aria-labelledby="h-k10">
+      <h2 id="h-k10">🔹 KELAS 10</h2>
+
+      <h3>1. Hakikat Ilmu Kimia</h3>
+      <p>Kimia adalah ilmu yang mempelajari materi, komposisi, struktur, sifat, perubahan yang terjadi, dan energi yang menyertainya. Sebagai <em>Central of Science</em>, kimia menjembatani pemahaman antara fisika (energi dan gaya) dan biologi (kehidupan).</p>
+      <div class="note">
+        <strong>🧭 Konsep penting:</strong>
+        <ul>
+          <li>Semua materi tersusun dari atom dan molekul.</li>
+          <li>Perubahan kimia disertai perubahan energi (panas, cahaya, listrik).</li>
+          <li>Tujuan kimia bukan sekadar menghafal rumus, tetapi memahami kaitan mikroskopis (atomik) dan makroskopis (fenomena nyata).</li>
+        </ul>
+      </div>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Kimia bukan hanya “zat berbahaya” atau “reaksi laboratorium”, melainkan memahami mekanisme alam dari napas manusia hingga lapisan ozon.</div>
+
+      <h3>1. Struktur Atom</h3>
+      <p>Atom merupakan partikel terkecil penyusun materi yang masih memiliki sifat unsur. Model atom berevolusi dari Dalton → Thomson → Rutherford → Bohr → mekanika kuantum (awan probabilitas elektron).</p>
+      <div class="tip">
+        <strong>📘 Inti konsep:</strong>
+        <ul>
+          <li>Proton (+), neutron (0), dan elektron (−).</li>
+          <li>Elektron menempati tingkat energi/orbital (bukan lintasan tetap).</li>
+          <li>Konfigurasi elektron menjelaskan sifat kimia & periodisitas.</li>
+        </ul>
+      </div>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Elektron tidak berputar seperti planet; ia berada dalam daerah probabilitas (awan elektron).</div>
+
+      <h3>1. Sistem Periodik Unsur (SPU)</h3>
+      <p>SPU mengelompokkan unsur berdasarkan nomor atom (Z) dan kemiripan sifat kimia. Disusun Mendeleev, disempurnakan Moseley berdasarkan Z.</p>
+      <table>
+        <thead><tr><th>Sifat</th><th>Ke arah kanan</th><th>Ke arah bawah</th></tr></thead>
+        <tbody>
+          <tr><td>Jari-jari atom</td><td>Menurun</td><td>Meningkat</td></tr>
+          <tr><td>Energi ionisasi</td><td>Meningkat</td><td>Menurun</td></tr>
+          <tr><td>Afinitas elektron</td><td>Meningkat</td><td>Menurun</td></tr>
+          <tr><td>Elektronegativitas</td><td>Meningkat</td><td>Menurun</td></tr>
+        </tbody>
+      </table>
+      <p><strong>💡 Keterkaitan:</strong> sifat unsur ditentukan oleh konfigurasi elektron terluar.</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> SPU tidak diurutkan berdasarkan “berat”, melainkan jumlah proton.</div>
+
+      <h3>1. Ikatan Kimia</h3>
+      <p>Atom berikatan untuk mencapai konfigurasi elektron stabil (oktet/duplet).</p>
+      <ul>
+        <li><strong>Ionik:</strong> transfer e⁻ antara logam–nonlogam (NaCl).</li>
+        <li><strong>Kovalen:</strong> berbagi e⁻ antar nonlogam (H₂O, CO₂).</li>
+        <li><strong>Logam:</strong> berbagi “lautan elektron” (Fe, Cu).</li>
+      </ul>
+      <p>🔸 Kovalen polar (HCl, H₂O) · 🔸 non‑polar (O₂, CH₄) · 🔸 semi‑polar/koordinasi (NH₄⁺).</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> “Kovalen polar” bukan berarti mengandung ion; muatan bersifat parsial.</div>
+
+      <h3>1. Tata Nama Senyawa dan Persamaan Reaksi</h3>
+      <ul>
+        <li>Ionik: NaCl = natrium klorida</li>
+        <li>Kovalen: CO₂ = karbon dioksida</li>
+        <li>Asam: HCl = asam klorida | Basa: NaOH = natrium hidroksida</li>
+      </ul>
+      <p><strong>Setara stoikiometri:</strong> 2H<sub>2</sub> + O<sub>2</sub> → 2H<sub>2</sub>O</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Persamaan kimia menunjukkan perbandingan kuantitatif, bukan urutan waktu.</div>
+
+      <h3>1. Larutan Elektrolit dan Non‑Elektrolit</h3>
+      <p>Elektrolit menghasilkan ion bebas (hantar listrik). Non‑elektrolit tidak.</p>
+      <ul>
+        <li>Elektrolit kuat: HCl, NaOH, NaCl</li>
+        <li>Elektrolit lemah: CH₃COOH, NH₃</li>
+        <li>Non‑elektrolit: gula, etanol</li>
+      </ul>
+      <p>⚡ Uji daya hantar: terang (kuat) → redup (lemah) → mati (non‑elektrolit).</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> “Asam kuat” ≠ konsentrasi tinggi; kuat/lemah = derajat ionisasi.</div>
+
+      <h3>1. Hukum Dasar Kimia dan Stoikiometri</h3>
+      <table>
+        <thead><tr><th>Hukum</th><th>Isi Pokok</th></tr></thead>
+        <tbody>
+          <tr><td>Lavoisier</td><td>Massa zat sebelum dan sesudah reaksi tetap.</td></tr>
+          <tr><td>Proust</td><td>Perbandingan massa unsur dalam senyawa selalu tetap.</td></tr>
+          <tr><td>Dalton</td><td>Atom tidak diciptakan/dimusnahkan, hanya disusun ulang.</td></tr>
+          <tr><td>Gay‑Lussac</td><td>Volume gas berbanding bilangan bulat sederhana.</td></tr>
+          <tr><td>Avogadro</td><td>Volume gas sama (T & P sama) mengandung jumlah molekul sama.</td></tr>
+        </tbody>
+      </table>
+      <p><strong>🧮 Stoikiometri:</strong> n = m/M<sub>r</sub>, PV = nRT; kerangka kuantitatif reaksi nyata.</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Bukan sekadar “hitung mol”, melainkan cara berpikir logis tentang reaksi.</div>
+
+      <h3>1. Kimia Hijau dan Nanoteknologi</h3>
+      <ul>
+        <li>🌱 Minim limbah, bahan terbarukan, efisiensi energi, produk aman.</li>
+        <li>🔹 Nanoteknologi (1–100 nm): katalis, obat kanker, sensor, baterai.</li>
+      </ul>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> “Nano” bukan berarti berbahaya; sering meningkatkan efisiensi & menekan limbah.</div>
+    </section>
+
+    <!-- ===================== KELAS 11 ===================== -->
+    <section id="kelas-11" class="card" aria-labelledby="h-k11">
+      <h2 id="h-k11">🔹 KELAS 11</h2>
+
+      <h3>1. Senyawa Hidrokarbon dan Minyak Bumi</h3>
+      <p>Hidrokarbon adalah senyawa organik yang tersusun dari C dan H; keragaman muncul karena C tetravalen dan dapat membentuk rantai panjang.</p>
+      <table>
+        <thead><tr><th>Jenis</th><th>Ikatan</th><th>Rumus Umum</th><th>Contoh</th></tr></thead>
+        <tbody>
+          <tr><td>Alkana</td><td>Tunggal (C–C)</td><td>C<sub>n</sub>H<sub>2n+2</sub></td><td>Metana (CH₄)</td></tr>
+          <tr><td>Alkena</td><td>Rangkap dua (C=C)</td><td>C<sub>n</sub>H<sub>2n</sub></td><td>Etena (C₂H₄)</td></tr>
+          <tr><td>Alkuna</td><td>Rangkap tiga (C≡C)</td><td>C<sub>n</sub>H<sub>2n−2</sub></td><td>Etuna (C₂H₂)</td></tr>
+          <tr><td>Aromatik</td><td>Cincin benzena</td><td>–</td><td>Benzena (C₆H₆)</td></tr>
+        </tbody>
+      </table>
+      <p>Minyak bumi: campuran hidrokarbon yang diolah via distilasi fraksionasi → bensin, diesel, pelumas.</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Tidak semua senyawa C organik (CO₂/CO/karbonat = anorganik). Pembakaran sempurna → CO₂ + H₂O.</div>
+
+      <h3>1. Termokimia</h3>
+      <p>Termokimia mengkaji hubungan panas & reaksi. Eksoterm (ΔH &lt; 0), endoterm (ΔH &gt; 0).</p>
+      <p><strong>Rumus:</strong> ΔH = ΣΔH<sub>produk</sub> − ΣΔH<sub>reaktan</sub>; q<sub>p</sub> = m·c·ΔT</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Reaksi panas ≠ reaksi cepat; laju ditentukan kinetika, bukan ΔH.</div>
+
+      <h3>1. Kinetika Kimia (Laju Reaksi)</h3>
+      <p>Laju bergantung tumbukan efektif; faktor: konsentrasi, suhu, luas permukaan, katalis.</p>
+      <p>v = k[A]<sup>m</sup>[B]<sup>n</sup></p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Katalis menurunkan E<sub>a</sub>, bukan menambah energi. Cepat ≠ eksoterm.</div>
+
+      <h3>1. Kesetimbangan Kimia (Kc & Kp)</h3>
+      <p>Kesetimbangan tercapai ketika laju maju = balik; konsentrasi konstan namun reaksi dinamis.</p>
+      <p>K<sub>c</sub> = [C]<sup>c</sup>[D]<sup>d</sup> / [A]<sup>a</sup>[B]<sup>b</sup>; K<sub>p</sub> memakai tekanan parsial.</p>
+      <p><em>Le Chatelier</em>: sistem menyesuaikan diri terhadap gangguan.</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Kesetimbangan bukan berarti berhenti; K<sub>c</sub> tak punya satuan baku.</div>
+
+      <h3>1. Kesetimbangan Asam–Basa</h3>
+      <p>K<sub>a</sub> = [H⁺][A⁻]/[HA]; K<sub>b</sub> = [B⁺][OH⁻]/[BOH]; K<sub>a</sub>K<sub>b</sub> = K<sub>w</sub> = 1×10<sup>−14</sup> (25 °C). pH = −log[H⁺]; pK<sub>a</sub> = −log K<sub>a</sub>.</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> “Asam kuat = pH kecil” tergantung konsentrasi; perhatikan kapasitas buffer.</div>
+
+      <h3>1. Larutan Garam Terhidrolisis</h3>
+      <table>
+        <thead><tr><th>Jenis Garam</th><th>Contoh</th><th>Sifat</th></tr></thead>
+        <tbody>
+          <tr><td>Asam kuat + basa kuat</td><td>NaCl</td><td>Netral</td></tr>
+          <tr><td>Asam lemah + basa kuat</td><td>CH₃COONa</td><td>Basa</td></tr>
+          <tr><td>Asam kuat + basa lemah</td><td>NH₄Cl</td><td>Asam</td></tr>
+        </tbody>
+      </table>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Tidak semua garam netral; lihat asal asam–basa.</div>
+
+      <h3>1. Larutan Penyangga (Buffer)</h3>
+      <p>pH = pK<sub>a</sub> + log([garam]/[asam]); pOH = pK<sub>b</sub> + log([garam]/[basa]). Contoh: H₂CO₃/HCO₃⁻ (pH darah ≈ 7,4).</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Buffer bukan “pH tetap”; ada kapasitas yang dapat terlampaui.</div>
+
+      <h3>1. Titrasi Asam–Basa</h3>
+      <p>Menentukan konsentrasi dengan larutan standar; titik ekuivalen: mol asam = mol basa. M₁V₁ = M₂V₂.</p>
+      <p>Indikator dipilih sesuai pH ekuivalen (PP, metil jingga, bromtimol biru).</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Indikator menandai titik akhir (perubahan pH), mendekati titik ekuivalen.</div>
+
+      <h3>1. Kelarutan dan Ksp</h3>
+      <p>AB(s) ⇌ A⁺ + B⁻ → K<sub>sp</sub> = [A⁺][B⁻]. Jika hasil kali ion &gt; K<sub>sp</sub> → endapan.</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> K<sub>sp</sub> konstanta, bukan kelarutan langsung; jenuh = kesetimbangan dinamis.</div>
+
+      <h3>1. Sistem Koloid</h3>
+      <table>
+        <thead><tr><th>Jenis</th><th>Dispersi</th><th>Medium</th><th>Contoh</th></tr></thead>
+        <tbody>
+          <tr><td>Sol padat</td><td>Padat</td><td>Padat</td><td>Paduan logam</td></tr>
+          <tr><td>Sol cair</td><td>Padat</td><td>Cair</td><td>Tinta, cat</td></tr>
+          <tr><td>Aerosol</td><td>Cair/Padat</td><td>Gas</td><td>Kabut, asap</td></tr>
+          <tr><td>Emulsi</td><td>Cair</td><td>Cair</td><td>Susu</td></tr>
+          <tr><td>Buih</td><td>Gas</td><td>Cair/Padat</td><td>Sabun, spons</td></tr>
+        </tbody>
+      </table>
+      <p>Sifat khas: Efek Tyndall, gerak Brown, elektroforesis.</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Koloid ditentukan ukuran partikel & kestabilan, bukan semata viskositas.</div>
+    </section>
+
+    <!-- ===================== KELAS 12 ===================== -->
+    <section id="kelas-12" class="card" aria-labelledby="h-k12">
+      <h2 id="h-k12">🔹 KELAS 12</h2>
+
+      <h3>1. Sifat Koligatif Larutan</h3>
+      <p>Sifat bergantung jumlah partikel, bukan jenis zat.</p>
+      <ul>
+        <li>ΔP = X<sub>zat terlarut</sub>·P<sup>0</sup></li>
+        <li>ΔT<sub>b</sub> = K<sub>b</sub>·m</li>
+        <li>ΔT<sub>f</sub> = K<sub>f</sub>·m</li>
+        <li>π = M·R·T</li>
+      </ul>
+      <p><strong>i (van’t Hoff):</strong> disosiasi elektrolit menambah jumlah partikel efektif.</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Koligatif terkait jumlah partikel; pekat ≠ otomatis T<sub>b</sub> lebih tinggi tanpa mempertimbangkan i.</div>
+
+      <h3>1. Reaksi Reduksi–Oksidasi (Redoks)</h3>
+      <table>
+        <thead><tr><th>Proses</th><th>Elektron</th><th>Contoh</th></tr></thead>
+        <tbody>
+          <tr><td>Oksidasi</td><td>Melepas e⁻</td><td>Na → Na⁺ + e⁻</td></tr>
+          <tr><td>Reduksi</td><td>Menangkap e⁻</td><td>Cl₂ + 2e⁻ → 2Cl⁻</td></tr>
+        </tbody>
+      </table>
+      <ul>
+        <li>Biloks unsur bebas = 0; O = −2, H = +1 (umum).</li>
+        <li>Naik biloks = oksidasi; turun = reduksi.</li>
+      </ul>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Reduksi ≠ berkurang jumlah atom; redoks tak selalu “terbakar”.</div>
+
+      <h3>1. Elektrokimia</h3>
+      <ul>
+        <li><strong>Sel Galvani:</strong> redoks → listrik; anoda (oksidasi, −), katoda (reduksi, +); E<sub>sel</sub> = E<sub>katoda</sub> − E<sub>anoda</sub>.</li>
+        <li><strong>Sel Elektrolisis:</strong> listrik → memaksa reaksi; anoda (+).</li>
+      </ul>
+      <p><strong>Hukum Faraday:</strong> m = (Q·M)/(n·F)</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Anoda tidak selalu positif; elektrolisis mengonsumsi energi.</div>
+
+      <h3>1. Senyawa Turunan Alkana</h3>
+      <table>
+        <thead><tr><th>Gugus</th><th>Rumus Umum</th><th>Nama</th><th>Contoh</th></tr></thead>
+        <tbody>
+          <tr><td>–OH</td><td>R–OH</td><td>Alkohol</td><td>Etanol</td></tr>
+          <tr><td>–CHO</td><td>R–CHO</td><td>Aldehida</td><td>Etanal</td></tr>
+          <tr><td>–CO–</td><td>R–CO–R'</td><td>Keton</td><td>Propanon</td></tr>
+          <tr><td>–COOH</td><td>R–COOH</td><td>Asam karboksilat</td><td>Asam asetat</td></tr>
+          <tr><td>–COOR</td><td>R–COOR'</td><td>Ester</td><td>Metil asetat</td></tr>
+          <tr><td>–NH₂</td><td>R–NH₂</td><td>Amina</td><td>Metilamina</td></tr>
+        </tbody>
+      </table>
+      <p>Reaksi khas: oksidasi (alkohol→aldehida→asam), esterifikasi (asam+alkohol→ester+air), hidrolisis (kebalikannya).</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Gugus fungsi adalah bagian aktif molekul. Alkohol luas pemanfaatannya.</div>
+
+      <h3>1. Senyawa Benzena dan Turunannya</h3>
+      <p>Benzena (C₆H₆) aromatik stabil (resonansi π). Reaksi khas substitusi aromatik elektrofilik: nitrasi & halogenasi.</p>
+      <ul>
+        <li>Nitrasi: C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O</li>
+        <li>Halogenasi: C₆H₆ + Cl₂ → C₆H₅Cl + HCl</li>
+      </ul>
+      <p>Turunan: toluena, fenol, anilina, nitrobenzena. Aplikasi: parfum, antiseptik, polimer.</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> “Aromatik” bukan berarti harum; benzena bersifat karsinogenik.</div>
+
+      <h3>1. Polimer dan Makromolekul</h3>
+      <table>
+        <thead><tr><th>Jenis</th><th>Mekanisme</th><th>Contoh</th></tr></thead>
+        <tbody>
+          <tr><td>Polimer adisi</td><td>Gabung tanpa produk samping</td><td>Polietilena, PVC</td></tr>
+          <tr><td>Polimer kondensasi</td><td>Terbentuk disertai H₂O/HCl</td><td>Nilon, poliester</td></tr>
+        </tbody>
+      </table>
+      <p>Alamiah: protein, selulosa, karet, DNA. Sintetis: plastik, nilon, teflon, silikon. Biopolimer: biodegradable.</p>
+      <div class="warn"><strong>⚠️ Miskonsepsi:</strong> Tidak semua makromolekul adalah polimer; “plastik” = subset polimer sintetis.</div>
+
+      <div class="tip"><strong>💡 Sintesis akhir:</strong> Kimia menautkan struktur–energi–fungsi; perubahan materi digerakkan interaksi partikel & energi.</div>
+    </section>
+  </div>
+</div>
+
+  </main>  <footer>
+    <div class="container footer-inner">
+      © <span id="year"></span> Disusun untuk pembelajaran Kimia SMA.
+      <div class="muted">Fitur: Pencarian cepat, tema gelap, tombol kembali ke atas.</div>
+    </div>
+  </footer>  <!-- Back to top -->  <div class="to-top" id="toTop"><button aria-label="Kembali ke atas">↑</button></div>  <script>
+    // Footer year
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    // Theme toggle with localStorage + prefers-color-scheme
+    (function(){
+      const root = document.documentElement;
+      const btn = document.getElementById('themeBtn');
+      const saved = localStorage.getItem('theme');
+      if(saved){ root.setAttribute('data-theme', saved); }
+      else { root.setAttribute('data-theme', 'auto'); }
+      function applyCycle(){
+        const current = root.getAttribute('data-theme');
+        const next = current === 'auto' ? 'dark' : current === 'dark' ? 'light' : 'auto';
+        root.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+        btn.textContent = 'Tema' + (next==='auto' ? '' : ' ('+next+')');
+      }
+      // init label
+      btn.textContent = 'Tema' + (root.getAttribute('data-theme')==='auto' ? '' : ' ('+root.getAttribute('data-theme')+')');
+      btn.addEventListener('click', applyCycle);
+    })();
+
+    // Back to top visibility
+    (function(){
+      const el = document.getElementById('toTop');
+      function onScroll(){
+        if(window.scrollY > 400){ el.classList.add('show'); } else { el.classList.remove('show'); }
+      }
+      window.addEventListener('scroll', onScroll, {passive:true});
+      document.querySelector('#toTop button').addEventListener('click', () => window.scrollTo({top:0, behavior:'smooth'}));
+      onScroll();
+    })();
+
+    // Client-side search with basic highlight + section focus
+    (function(){
+      const q = document.getElementById('q');
+      const content = document.getElementById('content');
+      let marks = [];
+
+      function clearMarks(){ marks.forEach(m => { const parent = m.parentNode; parent.replaceChild(document.createTextNode(m.textContent), m); parent.normalize(); }); marks = []; }
+
+      function highlight(term){
+        if(!term) return;
+        const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, { acceptNode: n => n.nodeValue.trim().length ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT });
+        const re = new RegExp(term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+        let node; const foundSections = new Set();
+        while(node = walker.nextNode()){
+          const txt = node.nodeValue;
+          if(re.test(txt)){
+            const span = document.createElement('span');
+            let lastIndex = 0; re.lastIndex = 0; let match;
+            while((match = re.exec(txt))){
+              span.appendChild(document.createTextNode(txt.substring(lastIndex, match.index)));
+              const mk = document.createElement('mark'); mk.textContent = match[0]; span.appendChild(mk); marks.push(mk);
+              lastIndex = match.index + match[0].length;
+            }
+            span.appendChild(document.createTextNode(txt.substring(lastIndex)));
+            node.parentNode.replaceChild(span, node);
+            const sec = span.closest('section'); if(sec) foundSections.add(sec.id);
+          }
+        }
+        // Scroll to the first section that matched
+        const first = Array.from(foundSections)[0]; if(first){ document.getElementById(first).scrollIntoView({behavior:'smooth', block:'start'}); }
+      }
+
+      q.addEventListener('input', (e) => {
+        clearMarks();
+        const term = q.value.trim();
+        if(term.length >= 2){ highlight(term); }
+      });
+
+      // Clear highlight on Escape
+      q.addEventListener('keydown', (e)=>{ if(e.key==='Escape'){ q.value=''; clearMarks(); } });
+    })();
+  </script></body>
+</html>
