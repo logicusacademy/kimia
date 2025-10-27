@@ -1,130 +1,232 @@
-# 📘 Kimia SMA — Kurikulum Merdeka
+<div id="top"></div>
 
-Silabus lengkap dan terstruktur untuk jenjang **SMA/MA**, disusun berdasarkan:  
-- **Surat Keputusan Kepala BSKAP No. 046/H/KR/2025** tentang *Capaian Pembelajaran (CP)*  
-- **Perkaban No. 045/H/AN/2025** tentang *Kerangka Asesmen Tes Kemampuan Akademik (TKA)*  
+# 📘 Kimia SMA — Kurikulum Merdeka (Revisi 2025)
 
-Pendekatan pembelajaran berfokus pada **pemahaman konseptual**, **penalaran analitis**, **literasi sains**, dan **aplikasi kontekstual**, sesuai profil *Pelajar Pancasila*.
+[![Kurikulum](https://img.shields.io/badge/Kurikulum-Merdeka-0a7)](https://github.com/)
+[![Regulasi](https://img.shields.io/badge/BSKAP-046%2FH%2FKR%2F2025-0a7)](https://github.com/)
+[![Asesmen](https://img.shields.io/badge/Perkaban-045%2FH%2FAN%2F2025-0a7)](https://github.com/)
+[![Status](https://img.shields.io/badge/Versi-2025.10-blue)](#)
+[![Lisensi](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Silabus lengkap jenjang **SMA/MA** berlandaskan:
+- **SK Kepala BSKAP No. 046/H/KR/2025** (*Capaian Pembelajaran/CP*)
+- **Perkaban No. 045/H/AN/2025** (*Kerangka Asesmen TKA*)
+
+Fokus pada **pemahaman konseptual**, **penalaran ilmiah**, **numerasi sains**, **kontekstualisasi**, dan **praktik aman di laboratorium**.
+  
+---
+
+## 📑 Daftar Isi (klik untuk membuka)
+
+<details>
+  <summary><b>▶ Navigasi Cepat</b></summary>
+
+- [Kelas 10 — Fondasi Ilmu Kimia](#kelas-10--fondasi-ilmu-kimia)
+  - [1. Hakikat Ilmu Kimia](#1-hakikat-ilmu-kimia)
+  - [2. Struktur Atom](#2-struktur-atom)
+  - [3. Sistem Periodik Unsur](#3-sistem-periodik-unsur)
+  - [4. Ikatan Kimia](#4-ikatan-kimia)
+  - [5. Tata Nama & Persamaan Reaksi](#5-tata-nama-senyawa-dan-persamaan-reaksi)
+  - [6. Larutan Elektrolit–Non-Elektrolit](#6-larutan-elektrolit-dan-non-elektrolit)
+  - [7. Hukum Dasar & Stoikiometri](#7-hukum-dasar-kimia-dan-stoikiometri)
+  - [8. Kimia Hijau & Nanoteknologi](#8-kimia-hijau-dan-nanoteknologi)
+- [Kelas 11 — Reaksi dan Energi](#kelas-11--reaksi-dan-energi)
+  - [1. Senyawa Hidrokarbon & Minyak Bumi](#1-senyawa-hidrokarbon-dan-minyak-bumi)
+  - [2. Termokimia](#2-termokimia)
+  - [3. Kinetika Kimia (Laju Reaksi)](#3-kinetika-kimia-laju-reaksi)
+  - [4. Kesetimbangan (Kc & Kp)](#4-kesetimbangan-kimia-kc-dan-kp)
+  - [5. Kesetimbangan Asam–Basa](#5-kesetimbangan-asambasa)
+  - [6. Larutan Garam Terhidrolisis](#6-larutan-garam-terhidrolisis)
+  - [7. Buffer](#7-larutan-penyangga-buffer)
+  - [8. Titrasi Asam–Basa](#8-titrasi-asambasa)
+  - [9. Kelarutan & Ksp](#9-kelarutan-dan-ksp)
+  - [10. Sistem Koloid](#10-sistem-koloid)
+- [Kelas 12 — Integrasi & Aplikasi](#kelas-12--integrasi--aplikasi-kimia)
+  - [1. Sifat Koligatif](#1-sifat-koligatif-larutan)
+  - [2. Redoks](#2-reaksi-reduksioksidasi-redoks)
+  - [3. Elektrokimia](#3-elektrokimia)
+  - [4. Turunan Alkana (Gugus Fungsi)](#4-senyawa-turunan-alkana)
+  - [5. Benzena & Turunannya](#5-senyawa-benzena-dan-turunannya)
+  - [6. Polimer & Makromolekul](#6-polimer-dan-makromolekul)
+- [🎯 Tujuan Pembelajaran (Global)](#-tujuan-pembelajaran-global)
+- [🧪 Penjenjangan Asesmen TKA (Ringkas)](#-penjenjangan-asesmen-tka-ringkas)
+- [Legal](#legal)
+
+</details>
 
 ---
 
-## 🔹 Kelas 10 — Fondasi Ilmu Kimia
-### [1. Hakikat Ilmu Kimia](#hakikat-ilmu-kimia)
-**CP:** Memahami hakikat kimia sebagai sains yang mempelajari materi, struktur, perubahan, serta energi yang menyertainya.  
-**Fokus:** peran kimia dalam kehidupan, metode ilmiah, dan keselamatan kerja di laboratorium.
+## Kelas 10 — Fondasi Ilmu Kimia
 
-### [2. Struktur Atom](#struktur-atom)
-**CP:** Menjelaskan perkembangan model atom dan partikel penyusunnya.  
-**Fokus:** konfigurasi elektron, orbital, dan hubungan dengan sifat unsur.
+<details open>
+  <summary><b>📦 Ringkasan Kelas 10</b></summary>
 
-### [3. Sistem Periodik Unsur](#sistem-periodik-unsur)
-**CP:** Mengelompokkan unsur berdasarkan nomor atom dan sifat periodik.  
-**Fokus:** jari-jari atom, energi ionisasi, elektronegativitas, afinitas elektron.
+### 1. Hakikat Ilmu Kimia
+**CP:** Memahami kimia sebagai sains (materi, struktur, perubahan, energi) dan praktik keselamatan.  
+**Fokus:** peran kimia; metode ilmiah; simbol dan prosedur K3 lab.  
+**TKA selaras:** literasi sains (membaca gambar/diagram, instruksi keselamatan).
 
-### [4. Ikatan Kimia](#ikatan-kimia)
-**CP:** Menjelaskan jenis dan sifat ikatan kimia serta gaya antarmolekul.  
-**Fokus:** ikatan ion, kovalen, logam, polaritas, dan hubungan dengan sifat fisik zat.
+### 2. Struktur Atom
+**CP:** Menjelaskan perkembangan model atom dan partikel penyusun.  
+**Fokus:** konfigurasi elektron, orbital sederhana, kaitan struktur–sifat.  
+**TKA selaras:** interpretasi model dan tren numerik sederhana.
 
-### [5. Tata Nama Senyawa dan Persamaan Reaksi](#tata-nama-senyawa-dan-persamaan-reaksi)
-**CP:** Menerapkan aturan IUPAC dan menuliskan persamaan reaksi setara.  
-**Fokus:** hukum kekekalan massa, penyetaraan reaksi, jenis-jenis reaksi.
+### 3. Sistem Periodik Unsur
+**CP:** Mengelompokkan unsur berdasarkan nomor atom & sifat periodik.  
+**Fokus:** jari-jari atom, energi ionisasi, elektronegativitas, afinitas elektron.  
+**TKA selaras:** penalaran tren, pembacaan tabel/grafik.
 
-### [6. Larutan Elektrolit dan Non-Elektrolit](#larutan-elektrolit-dan-non-elektrolit)
-**CP:** Membedakan larutan berdasarkan daya hantar listrik dan jenis zat terlarut.  
-**Fokus:** uji konduktivitas dan fenomena ionisasi.
+### 4. Ikatan Kimia
+**CP:** Menjelaskan jenis ikatan & gaya antarmolekul serta dampaknya pada sifat zat.  
+**Fokus:** ion, kovalen, logam; polaritas; H-bond; van der Waals.  
+**TKA selaras:** analogi model–fenomena (titik didih/kelarutan).
 
-### [7. Hukum Dasar Kimia dan Stoikiometri](#hukum-dasar-kimia-dan-stoikiometri)
-**CP:** Menggunakan hukum-hukum dasar kimia dalam perhitungan stoikiometri.  
-**Fokus:** hukum Lavoisier, Proust, Dalton, Gay-Lussac, Avogadro; konsep mol; perbandingan reaksi.
+### 5. Tata Nama Senyawa dan Persamaan Reaksi
+**CP:** Menerapkan IUPAC dasar dan menyetarakan reaksi.  
+**Fokus:** nama senyawa biner/oksida/asam-basa sederhana; hukum kekekalan massa.  
+**TKA selaras:** numerasi proporsi & stoikiometri dasar.
 
-### [8. Kimia Hijau dan Nanoteknologi](#kimia-hijau-dan-nanoteknologi)
-**CP:** Menunjukkan kesadaran terhadap praktik kimia berkelanjutan dan teknologi modern.  
-**Fokus:** prinsip kimia hijau, efisiensi energi, bahan terbarukan, dan aplikasi nano.
+### 6. Larutan Elektrolit dan Non-Elektrolit
+**CP:** Membedakan larutan berdasarkan daya hantar listrik.  
+**Fokus:** uji konduktivitas; derajat ionisasi.  
+**TKA selaras:** membaca data eksperimen sederhana.
+
+### 7. Hukum Dasar Kimia dan Stoikiometri
+**CP:** Menggunakan hukum dasar dalam perhitungan mol & reaksi.  
+**Fokus:** Lavoisier, Proust, Dalton, Gay-Lussac, Avogadro; konsep mol; volume gas.  
+**TKA selaras:** penalaran kuantitatif (mol–massa–volume).
+
+### 8. Kimia Hijau dan Nanoteknologi
+**CP:** Menunjukkan sikap dan pemahaman praktik kimia berkelanjutan & teknologi modern.  
+**Fokus:** 12 prinsip green chemistry; efisiensi energi; aplikasi nano lingkungan/industri.  
+**TKA selaras:** literasi kontekstual & etika ilmiah.
+
+[🔝 Kembali ke atas](#top)
+</details>
 
 ---
 
-## 🔹 Kelas 11 — Reaksi dan Energi
-### [1. Senyawa Hidrokarbon dan Minyak Bumi](#senyawa-hidrokarbon-dan-minyak-bumi)
+## Kelas 11 — Reaksi dan Energi
+
+<details>
+  <summary><b>⚗️ Ringkasan Kelas 11</b></summary>
+
+### 1. Senyawa Hidrokarbon dan Minyak Bumi
 **CP:** Menganalisis struktur, sifat, dan perolehan senyawa karbon sederhana.  
-**Fokus:** alkana, alkena, alkuna, aromatik, serta proses distilasi fraksionasi.
+**Fokus:** alkana/alkena/alkuna/aromatik; distilasi fraksionasi.  
+**TKA selaras:** klasifikasi & pemetaan proses.
 
-### [2. Termokimia](#termokimia)
-**CP:** Menjelaskan perubahan energi dalam reaksi kimia.  
-**Fokus:** entalpi (ΔH), reaksi eksoterm–endoterm, hukum Hess, dan efisiensi energi.
+### 2. Termokimia
+**CP:** Menjelaskan perubahan energi reaksi.  
+**Fokus:** ΔH, eksoterm–endoterm, hukum Hess, efisiensi energi.  
+**TKA selaras:** penalaran analitik & perhitungan energi.
 
-### [3. Kinetika Kimia (Laju Reaksi)](#kinetika-kimia-laju-reaksi)
-**CP:** Menjelaskan faktor-faktor yang memengaruhi laju reaksi dan teori tumbukan.  
-**Fokus:** konsentrasi, suhu, luas permukaan, katalis; interpretasi grafik laju.
+### 3. Kinetika Kimia (Laju Reaksi)
+**CP:** Menjelaskan faktor laju & teori tumbukan.  
+**Fokus:** konsentrasi, suhu, luas permukaan, katalis; grafik laju.  
+**TKA selaras:** literasi data (kurva konsentrasi–waktu).
 
-### [4. Kesetimbangan Kimia (Kc dan Kp)](#kesetimbangan-kimia-kc-dan-kp)
-**CP:** Menjelaskan sistem kesetimbangan dinamis dan prinsip Le Chatelier.  
-**Fokus:** hubungan Kc–Kp, pengaruh tekanan/suhu, aplikasi industri (Haber Process).
+### 4. Kesetimbangan Kimia (Kc dan Kp)
+**CP:** Menjelaskan kesetimbangan dinamis & Le Chatelier.  
+**Fokus:** Kc–Kp, pengaruh T/P, contoh industri (Haber/Contact).  
+**TKA selaras:** HOTS sebab–akibat sistemik.
 
-### [5. Kesetimbangan Asam–Basa](#kesetimbangan-asam-basa)
-**CP:** Menganalisis konsep asam–basa dan perhitungan pH.  
-**Fokus:** teori Arrhenius, Brønsted–Lowry, Lewis; Ka, Kb, Kw.
+### 5. Kesetimbangan Asam–Basa
+**CP:** Menganalisis konsep asam–basa & pH.  
+**Fokus:** Arrhenius, Brønsted–Lowry, Lewis; Ka, Kb, Kw.  
+**TKA selaras:** numerasi logaritmik dasar.
 
-### [6. Larutan Garam Terhidrolisis](#larutan-garam-terhidrolisis)
-**CP:** Menjelaskan proses hidrolisis garam dan sifat larutannya.  
-**Fokus:** pembentukan larutan asam, basa, netral.
+### 6. Larutan Garam Terhidrolisis
+**CP:** Menjelaskan hidrolisis garam dan sifat larutannya.  
+**Fokus:** garam pembentuk asam/basa/netral; pH garam.  
+**TKA selaras:** penalaran kausal.
 
-### [7. Larutan Penyangga (Buffer)](#larutan-penyangga-buffer)
-**CP:** Menjelaskan sistem buffer dan fungsinya.  
-**Fokus:** mekanisme kerja buffer serta contoh biologis dan industri.
+### 7. Larutan Penyangga (Buffer)
+**CP:** Menjelaskan mekanisme dan fungsi buffer.  
+**Fokus:** pasangan asam lemah–basa konjugat; aplikasi bio/industri.  
+**TKA selaras:** aplikasi kontekstual.
 
-### [8. Titrasi Asam–Basa](#titrasi-asam-basa)
-**CP:** Melakukan titrasi untuk menentukan konsentrasi larutan.  
-**Fokus:** titik ekuivalen, indikator pH, perhitungan stoikiometri.
+### 8. Titrasi Asam–Basa
+**CP:** Melakukan titrasi untuk menentukan konsentrasi.  
+**Fokus:** titik ekuivalen, indikator, perhitungan stoikiometri.  
+**TKA selaras:** numerasi praktis & interpretasi prosedur.
 
-### [9. Kelarutan dan Ksp](#kelarutan-dan-ksp)
-**CP:** Menghitung kelarutan dan hasil kali kelarutan.  
-**Fokus:** faktor pengaruh kelarutan, endapan selektif.
+### 9. Kelarutan dan Ksp
+**CP:** Menghitung kelarutan & hasil kali kelarutan.  
+**Fokus:** pengaruh ion senama, endapan selektif.  
+**TKA selaras:** pemecahan masalah kuantitatif.
 
-### [10. Sistem Koloid](#sistem-koloid)
-**CP:** Mengidentifikasi jenis, sifat, dan penerapan sistem koloid.  
-**Fokus:** efek Tyndall, koagulasi, peran koloid dalam industri & lingkungan.
+### 10. Sistem Koloid
+**CP:** Mengidentifikasi jenis, sifat, dan penerapan koloid.  
+**Fokus:** efek Tyndall, koagulasi, aplikasi lingkungan/industri.  
+**TKA selaras:** literasi fenomena sehari-hari.
 
----
-
-## 🔹 Kelas 12 — Integrasi dan Aplikasi Kimia
-### [1. Sifat Koligatif Larutan](#sifat-koligatif-larutan)
-**CP:** Menjelaskan sifat larutan yang bergantung pada jumlah partikel zat terlarut.  
-**Fokus:** tekanan uap, titik beku, titik didih, tekanan osmotik, dan aplikasinya.
-
-### [2. Reaksi Reduksi–Oksidasi (Redoks)](#reaksi-reduksi-oksidasi-redoks)
-**CP:** Menganalisis proses transfer elektron dan penerapan reaksi redoks.  
-**Fokus:** bilangan oksidasi, reaksi setara, oksidator–reduktor dalam kehidupan.
-
-### [3. Elektrokimia](#elektrokimia)
-**CP:** Menjelaskan hubungan reaksi redoks dengan energi listrik.  
-**Fokus:** sel Galvani, sel elektrolisis, potensial sel, hukum Faraday, baterai, korosi.
-
-### [4. Senyawa Turunan Alkana](#senyawa-turunan-alkana)
-**CP:** Menjelaskan struktur, gugus fungsi, dan reaksi khas senyawa organik sederhana.  
-**Fokus:** alkohol, aldehid, keton, asam karboksilat, ester.
-
-### [5. Senyawa Benzena dan Turunannya](#senyawa-benzena-dan-turunannya)
-**CP:** Menganalisis struktur dan reaksi senyawa aromatik.  
-**Fokus:** reaksi substitusi, aplikasi benzena dalam farmasi dan industri.
-
-### [6. Polimer dan Makromolekul](#polimer-dan-makromolekul)
-**CP:** Menganalisis proses polimerisasi dan jenis polimer alam & sintetis.  
-**Fokus:** adisi–kondensasi, plastik biodegradable, biopolimer.
+[🔝 Kembali ke atas](#top)
+</details>
 
 ---
 
-# 🧭 Tujuan Pembelajaran
-- Mengembangkan **pemahaman konseptual dan penalaran ilmiah** tentang zat dan perubahannya.  
-- Melatih **kemampuan analisis, literasi data, numerasi sains**, serta pemecahan masalah kontekstual (selaras TKA 045/H/AN/2025).  
-- Menumbuhkan **kesadaran etika ilmiah dan tanggung jawab lingkungan** melalui prinsip *Green Chemistry*.  
-- Menyiapkan peserta didik sebagai **pelajar reflektif, kolaboratif, dan adaptif** di bidang STEM.
+## Kelas 12 — Integrasi & Aplikasi Kimia
+
+<details>
+  <summary><b>🔬 Ringkasan Kelas 12</b></summary>
+
+### 1. Sifat Koligatif Larutan
+**CP:** Menjelaskan sifat yang bergantung pada jumlah partikel terlarut.  
+**Fokus:** penurunan tekanan uap, kenaikan Tb, penurunan Tf, tekanan osmotik; contoh penerapan.  
+**TKA selaras:** numerasi multi-langkah.
+
+### 2. Reaksi Reduksi–Oksidasi (Redoks)
+**CP:** Menganalisis transfer elektron & penerapan redoks.  
+**Fokus:** biloks, setar reaksi, oksidator–reduktor.  
+**TKA selaras:** penalaran representasi (setengah reaksi).
+
+### 3. Elektrokimia
+**CP:** Menjelaskan keterkaitan redoks–energi listrik.  
+**Fokus:** sel Galvani, sel elektrolisis, potensial sel, hukum Faraday, baterai & korosi.  
+**TKA selaras:** model–energi–fungsi.
+
+### 4. Senyawa Turunan Alkana
+**CP:** Menjelaskan struktur, gugus fungsi, dan reaksi khas organik sederhana.  
+**Fokus:** alkohol, aldehid, keton, asam karboksilat, ester; tata nama & isomer.  
+**TKA selaras:** klasifikasi & pola reaksi.
+
+### 5. Senyawa Benzena dan Turunannya
+**CP:** Menganalisis struktur aromatik & reaksi substitusi.  
+**Fokus:** arah orto/para/meta; aplikasi farmasi/industri.  
+**TKA selaras:** berpikir struktur–fungsi.
+
+### 6. Polimer dan Makromolekul
+**CP:** Menganalisis polimerisasi & jenis polimer alam/sintetis.  
+**Fokus:** adisi vs kondensasi; biopolimer; material berkelanjutan.  
+**TKA selaras:** literasi material & keberlanjutan.
+
+[🔝 Kembali ke atas](#top)
+</details>
 
 ---
 
-### Legal
+## 🎯 Tujuan Pembelajaran (Global)
+- Menguatkan **pemahaman konseptual & penalaran ilmiah** tentang zat dan perubahannya.  
+- Melatih **literasi data & numerasi sains** untuk pemecahan masalah kontekstual (selaras **Perkaban 045/H/AN/2025**).  
+- Menumbuhkan **etika ilmiah & tanggung jawab lingkungan** melalui prinsip **Green Chemistry**.  
+- Mengembangkan **kolaborasi, komunikasi, dan kemandirian belajar** (Profil Pelajar Pancasila).
+
+---
+
+## 🧪 Penjenjangan Asesmen TKA (Ringkas)
+
+| Domain TKA | Implementasi di Kimia |
+|---|---|
+| **Literasi Sains** | Membaca tabel/diagram, prosedur praktikum, inferensi dari data. |
+| **Numerasi** | Perhitungan mol, pH, Kc/Kp, Ksp, ΔH, sifat koligatif, Faraday. |
+| **Penalaran Analitik** | Tren periodik, laju & kesetimbangan, redoks–energi, struktur–fungsi. |
+| **Kontekstual** | Industri (Haber/Contact), lingkungan (air/udara/tanah), material (polimer). |
+
+---
+
+## Legal
 © 2024–2025 Logicus Academy. All rights reserved.  
-Disusun berdasarkan **BSKAP 046/H/KR/2025** dan **Perkaban 045/H/AN/2025**.
+Disusun berdasarkan **BSKAP 046/H/KR/2025** (CP) dan **Perkaban 045/H/AN/2025** (TKA).
 
----
-
-[🔝 Kembali ke atas](#kimia-sma--kurikulum-merdeka-revisi-2025)
+[🔝 Kembali ke atas](#top)
