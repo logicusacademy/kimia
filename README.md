@@ -2,7 +2,7 @@
 
 # 📘 Kimia SMA — Kurikulum Merdeka (Revisi 2025)
 
-[![Kurikulum](https://img.shields.io/badge/Kurikulum-Merdeka-0a7)](https://github.com/)
+[![Kurikulum](https://img.shields.io/badge/Kurikulum-Merdeka-0a7)](https://kurikulum.kemdikbud.go.id/file/1711503412_manage_file.pdf)
 [![Regulasi](https://img.shields.io/badge/BSKAP-046%2FH%2FKR%2F2025-0a7)](https://kurikulum.kemdikbud.go.id/file/1753929861_manage_file.pdf)
 [![Asesmen](https://img.shields.io/badge/Perkaban-045%2FH%2FAN%2F2025-0a7)](https://pusmendik.kemendikdasmen.go.id/pdf/file-175)
 [![Status](https://img.shields.io/badge/Versi-2025.10-blue)](#)
