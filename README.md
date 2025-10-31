@@ -206,25 +206,6 @@ Fokus pada **pemahaman konseptual**, **penalaran ilmiah**, **numerasi sains**, *
 
 ---
 
-## 🎯 Tujuan Pembelajaran (Global)
-- Menguatkan **pemahaman konseptual & penalaran ilmiah** tentang zat dan perubahannya.  
-- Melatih **literasi data & numerasi sains** untuk pemecahan masalah kontekstual (selaras **Perkaban 045/H/AN/2025**).  
-- Menumbuhkan **etika ilmiah & tanggung jawab lingkungan** melalui prinsip **Green Chemistry**.  
-- Mengembangkan **kolaborasi, komunikasi, dan kemandirian belajar** (Profil Pelajar Pancasila).
-
----
-
-## 🧪 Penjenjangan Asesmen TKA (Ringkas)
-
-| Domain TKA | Implementasi di Kimia |
-|---|---|
-| **Literasi Sains** | Membaca tabel/diagram, prosedur praktikum, inferensi dari data. |
-| **Numerasi** | Perhitungan mol, pH, Kc/Kp, Ksp, ΔH, sifat koligatif, Faraday. |
-| **Penalaran Analitik** | Tren periodik, laju & kesetimbangan, redoks–energi, struktur–fungsi. |
-| **Kontekstual** | Industri (Haber/Contact), lingkungan (air/udara/tanah), material (polimer). |
-
----
-
 ## Legal
 © 2024–2025 Logicus Academy. All rights reserved.  
 Disusun berdasarkan **BSKAP 046/H/KR/2025** (CP) dan **Perkaban 045/H/AN/2025** (TKA).
