@@ -69,7 +69,6 @@ Kimia adalah cabang sains yang mempelajari materi, mencakup komposisi, struktur,
 Ilmu kimia berperan menjembatani berbagai disiplin ilmu — dari fisika dan biologi, hingga geologi, kedokteran, teknik, dan lingkungan — karena hampir semua fenomena alam melibatkan perubahan zat dan energi. Oleh karena itu, kimia dikenal sebagai “Central of Science” (pusat dari ilmu pengetahuan), karena menjadi penghubung antara ilmu-ilmu alam (fisika, biologi, geosains) dan ilmu terapan (kedokteran, teknik, farmasi, lingkungan).
 
 #### 1.2. Ruang Lingkup Ilmu Kimia
-
 1) Kimia Fisik: mempelajari energi dan perubahan pada zat (terkait fisika).
 Contoh: termokimia, kinetika reaksi.
 2) Kimia Organik: mempelajari senyawa karbon dan turunannya.
@@ -116,9 +115,23 @@ Dengan ruang lingkup yang luas, kimia menjadi ilmu yang mengintegrasikan konsep 
 **TKA selaras:** penalaran kuantitatif (mol–massa–volume).
 
 ### 8. Kimia Hijau dan Nanoteknologi
-**CP:** Menunjukkan sikap dan pemahaman praktik kimia berkelanjutan & teknologi modern.  
-**Fokus:** 12 prinsip green chemistry; efisiensi energi; aplikasi nano lingkungan/industri.  
-**TKA selaras:** literasi kontekstual & etika ilmiah.
+#### 8.1. Pengantar
+Kimia Hijau (Green Chemistry) adalah cabang ilmu kimia yang berfokus pada perancangan produk dan proses kimia yang ramah lingkungan, efisien, dan berkelanjutan, dengan meminimalkan penggunaan serta pembentukan zat berbahaya.
+
+#### 8.2. Prinsip Kimia Hijau
+Kimia hijau dikembangkan oleh Paul Anastas dan John Warner (1998) dengan 12 prinsip utama yang menjadi panduan dalam praktik kimia berkelanjutan.
+1) Pencegahan limbah
+2) Ekonomi atom
+3) Sintesis ramah lingkungan
+4) Desain bahan kimia yang aman
+5) Penggunaan pelarut aman
+6) Efisiensi energi
+7) Bahan baku terbarukan
+8) Kurangi derivatisasi
+9) Katalisis
+10) Produk dapat terdegradasi
+11) Pemantauan real-time
+12) Kimia yang aman untuk mencegah kecelakaan
 
 [🔝 Kembali ke atas](#top)
 </details>
