@@ -142,6 +142,16 @@ Tabel periodik modern memiliki 18 golongan (kolom vertikal) dan 7 periode (baris
 
 Sifat-sifat unsur dalam tabel periodik menunjukkan pola periodik (berulang) yang terkait dengan konfigurasi elektron.
 
+#### 3.4. Hubungan SPU dengan Konfigurasi Elektron
+
+• Golongan → ditentukan oleh jumlah elektron valensi.
+Contoh: Na (1s² 2s² 2p⁶ 3s¹) → 1 elektron valensi → golongan 1A.
+
+• Periode → ditentukan oleh jumlah kulit elektron.
+Contoh: Na (kulit K, L, M = 3 kulit) → periode 3.
+
+Hubungan ini menjelaskan mengapa sifat unsur berulang secara periodik — karena pengisian elektron pada kulit dan orbital berulang dengan pola yang sama.
+
 ### 4. Ikatan Kimia
 **CP:** Menjelaskan jenis ikatan & gaya antarmolekul serta dampaknya pada sifat zat.  
 **Fokus:** ion, kovalen, logam; polaritas; H-bond; van der Waals.  
