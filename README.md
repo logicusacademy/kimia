@@ -99,9 +99,48 @@ Ilmu tentang struktur atom berkembang melalui kajian ilmiah bertahap berdasarkan
 Model mekanika kuantum menjelaskan bahwa elektron bersifat ganda (partikel dan gelombang), dan keberadaannya dijelaskan secara probabilistik, bukan deterministik.
 
 ### 3. Sistem Periodik Unsur
-**CP:** Mengelompokkan unsur berdasarkan nomor atom & sifat periodik.  
-**Fokus:** jari-jari atom, energi ionisasi, elektronegativitas, afinitas elektron.  
-**TKA selaras:** penalaran tren, pembacaan tabel/grafik.
+Sistem Periodik Unsur (SPU) merupakan pengelompokan unsur-unsur kimia berdasarkan kemiripan sifat fisika dan kimianya. SPU bukan sekadar daftar unsur, tetapi peta konseptual struktur atom, yang menunjukkan keteraturan alami dalam perilaku unsur di alam.
+
+Pemahaman SPU menjadi fondasi utama dalam kimia, karena:
+• Menghubungkan struktur atom dengan sifat kimia.
+• Memungkinkan prediksi sifat unsur baru.
+• Menjadi bahasa universal kimia dalam komunikasi ilmiah global.
+
+#### 3.1. Sejarah Perkembangan Sistem Periodik
+
+Perkembangan SPU menunjukkan proses ilmiah: penyusunan data empiris, pencarian pola, dan penyempurnaan teori.
+1) Johann Döbereiner (1829): Hukum Triad
+2) John Newlands (1864): Hukum Oktaf
+3) Dmitri Mendeleev (1869): Sistem Periodik berdasarkan massa atom
+4) Lothar Meyer (1870): Sistem Periodik berdasarkan volume atom
+5) Henry Moseley (1913): Nomor atom (Z) sebagai dasar SPU modern
+6) Glenn T. Seaborg (1940-an): Unsur transuranium & lantanida–aktinida
+
+SPU modern disusun berdasarkan nomor atom (Z), bukan massa atom, karena nomor atom mencerminkan jumlah proton dan elektron yang menentukan sifat kimia unsur.
+
+#### 3.2. Struktur Tabel Periodik Modern
+
+Tabel periodik modern memiliki 18 golongan (kolom vertikal) dan 7 periode (baris horizontal).
+
+1) Golongan:
+   • Menunjukkan jumlah elektron valensi (elektron terluar).
+   • Unsur dalam satu golongan memiliki sifat kimia mirip.
+   • Golongan utama (A): IA–VIIIA → unsur blok s dan p.
+   • Golongan transisi (B): unsur blok d dan f.
+
+2) Periode:
+   • Menunjukkan jumlah kulit elektron dalam atom.
+   • Dari periode 1 (H–He) hingga periode 7 (unsur radioaktif dan sintetis).
+
+3) Blok unsur berdasarkan orbital terakhir:
+   • Blok s (golongan 1 dan 2)
+   • Blok p (golongan 13–18)
+   • Blok d (unsur transisi)
+   • Blok f (lantanida & aktinida) 
+
+#### 3.3. Sifat Periodik Unsur
+
+Sifat-sifat unsur dalam tabel periodik menunjukkan pola periodik (berulang) yang terkait dengan konfigurasi elektron.
 
 ### 4. Ikatan Kimia
 **CP:** Menjelaskan jenis ikatan & gaya antarmolekul serta dampaknya pada sifat zat.  
