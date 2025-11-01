@@ -16,10 +16,7 @@ Fokus pada **pemahaman konseptual**, **penalaran ilmiah**, **numerasi sains**, *
   
 ---
 
-## 📑 Daftar Isi (klik untuk membuka)
-
-<details>
-  <summary><b>▶ Navigasi Cepat</b></summary>
+## Daftar Isi
 
 - [Kelas 10 — Fondasi Ilmu Kimia](#kelas-10--fondasi-ilmu-kimia)
   - [1. Hakikat Ilmu Kimia](#1-hakikat-ilmu-kimia)
@@ -48,18 +45,10 @@ Fokus pada **pemahaman konseptual**, **penalaran ilmiah**, **numerasi sains**, *
   - [4. Turunan Alkana (Gugus Fungsi)](#4-senyawa-turunan-alkana)
   - [5. Benzena & Turunannya](#5-senyawa-benzena-dan-turunannya)
   - [6. Polimer & Makromolekul](#6-polimer-dan-makromolekul)
-- [🎯 Tujuan Pembelajaran (Global)](#-tujuan-pembelajaran-global)
-- [🧪 Penjenjangan Asesmen TKA (Ringkas)](#-penjenjangan-asesmen-tka-ringkas)
-- [Legal](#legal)
-
-</details>
 
 ---
 
 ## Kelas 10 — Fondasi Ilmu Kimia
-
-<details open>
-  <summary><b>📦 Ringkasan Kelas 10</b></summary>
 
 ### 1. Hakikat Ilmu Kimia
 
@@ -154,7 +143,6 @@ Kimia hijau dikembangkan oleh Paul Anastas dan John Warner (1998) dengan 12 prin
 12) Kimia yang aman untuk mencegah kecelakaan
 
 [🔝 Kembali ke atas](#top)
-</details>
 
 ---
 
