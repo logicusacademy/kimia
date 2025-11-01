@@ -62,9 +62,10 @@ Fokus pada **pemahaman konseptual**, **penalaran ilmiah**, **numerasi sains**, *
   <summary><b>📦 Ringkasan Kelas 10</b></summary>
 
 ### 1. Hakikat Ilmu Kimia
-**CP:** Memahami kimia sebagai sains (materi, struktur, perubahan, energi) dan praktik keselamatan.  
-**Fokus:** peran kimia; metode ilmiah; simbol dan prosedur K3 lab.  
-**TKA selaras:** literasi sains (membaca gambar/diagram, instruksi keselamatan).
+
+Kimia adalah cabang sains yang mempelajari materi, mencakup komposisi, struktur, sifat, perubahan, dan energi yang menyertainya.
+
+Ilmu kimia berperan menjembatani berbagai disiplin ilmu — dari fisika dan biologi, hingga geologi, kedokteran, teknik, dan lingkungan — karena hampir semua fenomena alam melibatkan perubahan zat dan energi. Oleh karena itu, kimia dikenal sebagai “Central of Science” (pusat dari ilmu pengetahuan), karena menjadi penghubung antara ilmu-ilmu alam (fisika, biologi, geosains) dan ilmu terapan (kedokteran, teknik, farmasi, lingkungan).
 
 ### 2. Struktur Atom
 **CP:** Menjelaskan perkembangan model atom dan partikel penyusun.  
