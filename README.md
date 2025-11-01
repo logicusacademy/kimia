@@ -63,9 +63,27 @@ Fokus pada **pemahaman konseptual**, **penalaran ilmiah**, **numerasi sains**, *
 
 ### 1. Hakikat Ilmu Kimia
 
+#### 1.1. Pengantar
 Kimia adalah cabang sains yang mempelajari materi, mencakup komposisi, struktur, sifat, perubahan, dan energi yang menyertainya.
 
 Ilmu kimia berperan menjembatani berbagai disiplin ilmu — dari fisika dan biologi, hingga geologi, kedokteran, teknik, dan lingkungan — karena hampir semua fenomena alam melibatkan perubahan zat dan energi. Oleh karena itu, kimia dikenal sebagai “Central of Science” (pusat dari ilmu pengetahuan), karena menjadi penghubung antara ilmu-ilmu alam (fisika, biologi, geosains) dan ilmu terapan (kedokteran, teknik, farmasi, lingkungan).
+
+#### 1.2. Ruang Lingkup Ilmu Kimia
+
+1) Kimia Fisik: mempelajari energi dan perubahan pada zat (terkait fisika).
+Contoh: termokimia, kinetika reaksi.
+2) Kimia Organik: mempelajari senyawa karbon dan turunannya.
+Contoh: bahan bakar, plastik, obat.
+3) Kimia Anorganik: mempelajari senyawa non-karbon seperti logam, garam, dan mineral.
+Contoh: pupuk, bahan bangunan, logam industri.
+4) Kimia Analitik: mempelajari teknik identifikasi dan kuantifikasi zat.
+Contoh: analisis air, uji pH, spektrofotometri.
+5) Biokimia: mempelajari reaksi kimia dalam makhluk hidup.
+Contoh: metabolisme, enzim, fotosintesis.
+6) Kimia Lingkungan: mempelajari interaksi zat kimia dalam ekosistem.
+Contoh: polusi udara, limbah cair, ozon.
+
+Dengan ruang lingkup yang luas, kimia menjadi ilmu yang mengintegrasikan konsep energi, materi, dan kehidupan.
 
 ### 2. Struktur Atom
 **CP:** Menjelaskan perkembangan model atom dan partikel penyusun.  
