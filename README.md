@@ -85,9 +85,29 @@ Contoh: polusi udara, limbah cair, ozon.
 Dengan ruang lingkup yang luas, kimia menjadi ilmu yang mengintegrasikan konsep energi, materi, dan kehidupan.
 
 ### 2. Struktur Atom
-**CP:** Menjelaskan perkembangan model atom dan partikel penyusun.  
-**Fokus:** konfigurasi elektron, orbital sederhana, kaitan struktur–sifat.  
-**TKA selaras:** interpretasi model dan tren numerik sederhana.
+
+#### 2.1. Pengantar
+Atom adalah partikel dasar penyusun seluruh materi di alam semesta. Segala sifat kimia dan fisika suatu zat ditentukan oleh susunan partikel subatomik (proton, neutron, dan elektron) serta konfigurasi elektron dalam atom tersebut.
+
+Pemahaman struktur atom menjadi fondasi bagi seluruh cabang ilmu kimia, karena dari sinilah dapat dijelaskan:
+• mengapa unsur berbeda memiliki sifat berbeda,
+• bagaimana atom bergabung membentuk molekul, dan 
+• bagaimana energi berperan dalam ikatan kimia dan reaksi.
+
+#### 2.2. Perkembangan Model Atom
+Ilmu tentang struktur atom berkembang melalui kajian ilmiah bertahap berdasarkan data eksperimen. Evolusi model atom menunjukkan bagaimana pemikiran ilmuwan berkembang dari konkret menuju abstrak dan kuantitatif.
+1) Model Atom Dalton
+   Atom merupakan partikel terkecil, tidak dapat dibagi, setiap unsur tersusun atas atom identik.
+2) Model Atom Thomson
+   Atom bermuatan netral, terdiri dari elektron negatif tersebar dalam bola positif (“roti kismis”).
+3) Model Atom Rutherford
+   Atom terdiri dari inti bermuatan positif (proton) dan elektron beredar di sekitarnya.
+4) Model Atom Bohr
+   Elektron bergerak pada lintasan (kulit) tertentu dengan energi tetap; energi dilepaskan/diserap saat berpindah kulit.
+5) Model Atom Mekanika Kuantum
+   Elektron tidak bergerak pada lintasan tetap, tetapi menempati orbital dengan probabilitas tertentu.
+
+Model mekanika kuantum menjelaskan bahwa elektron bersifat ganda (partikel dan gelombang), dan keberadaannya dijelaskan secara probabilistik, bukan deterministik.
 
 ### 3. Sistem Periodik Unsur
 **CP:** Mengelompokkan unsur berdasarkan nomor atom & sifat periodik.  
