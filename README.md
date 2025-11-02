@@ -51,13 +51,11 @@ Fokus pada **pemahaman konseptual**, **penalaran ilmiah**, **numerasi sains**, *
 ## Kelas 10 — Fondasi Ilmu Kimia
 
 ### 1. Hakikat Ilmu Kimia
-
-#### 1.1. Pengantar
 Kimia adalah cabang sains yang mempelajari materi, mencakup komposisi, struktur, sifat, perubahan, dan energi yang menyertainya.
 
 Ilmu kimia berperan menjembatani berbagai disiplin ilmu — dari fisika dan biologi, hingga geologi, kedokteran, teknik, dan lingkungan — karena hampir semua fenomena alam melibatkan perubahan zat dan energi. Oleh karena itu, kimia dikenal sebagai “Central of Science” (pusat dari ilmu pengetahuan), karena menjadi penghubung antara ilmu-ilmu alam (fisika, biologi, geosains) dan ilmu terapan (kedokteran, teknik, farmasi, lingkungan).
 
-#### 1.2. Ruang Lingkup Ilmu Kimia
+#### 1.1. Ruang Lingkup Ilmu Kimia
 1) Kimia Fisik: mempelajari energi dan perubahan pada zat (terkait fisika).
 Contoh: termokimia, kinetika reaksi.
 2) Kimia Organik: mempelajari senyawa karbon dan turunannya.
@@ -74,8 +72,6 @@ Contoh: polusi udara, limbah cair, ozon.
 Dengan ruang lingkup yang luas, kimia menjadi ilmu yang mengintegrasikan konsep energi, materi, dan kehidupan.
 
 ### 2. Struktur Atom
-
-#### 2.1. Pengantar
 Atom adalah partikel dasar penyusun seluruh materi di alam semesta. Segala sifat kimia dan fisika suatu zat ditentukan oleh susunan partikel subatomik (proton, neutron, dan elektron) serta konfigurasi elektron dalam atom tersebut.
 
 Pemahaman struktur atom menjadi fondasi bagi seluruh cabang ilmu kimia, karena dari sinilah dapat dijelaskan:
@@ -83,7 +79,7 @@ Pemahaman struktur atom menjadi fondasi bagi seluruh cabang ilmu kimia, karena d
 • bagaimana atom bergabung membentuk molekul, dan 
 • bagaimana energi berperan dalam ikatan kimia dan reaksi.
 
-#### 2.2. Perkembangan Model Atom
+#### 2.1. Perkembangan Model Atom
 Ilmu tentang struktur atom berkembang melalui kajian ilmiah bertahap berdasarkan data eksperimen. Evolusi model atom menunjukkan bagaimana pemikiran ilmuwan berkembang dari konkret menuju abstrak dan kuantitatif.
 1) Model Atom Dalton
    Atom merupakan partikel terkecil, tidak dapat dibagi, setiap unsur tersusun atas atom identik.
@@ -107,7 +103,6 @@ Pemahaman SPU menjadi fondasi utama dalam kimia, karena:
 • Menjadi bahasa universal kimia dalam komunikasi ilmiah global.
 
 #### 3.1. Sejarah Perkembangan Sistem Periodik
-
 Perkembangan SPU menunjukkan proses ilmiah: penyusunan data empiris, pencarian pola, dan penyempurnaan teori.
 1) Johann Döbereiner (1829): Hukum Triad
 2) John Newlands (1864): Hukum Oktaf
@@ -119,7 +114,6 @@ Perkembangan SPU menunjukkan proses ilmiah: penyusunan data empiris, pencarian p
 SPU modern disusun berdasarkan nomor atom (Z), bukan massa atom, karena nomor atom mencerminkan jumlah proton dan elektron yang menentukan sifat kimia unsur.
 
 #### 3.2. Struktur Tabel Periodik Modern
-
 Tabel periodik modern memiliki 18 golongan (kolom vertikal) dan 7 periode (baris horizontal).
 
 1) Golongan:
@@ -139,7 +133,6 @@ Tabel periodik modern memiliki 18 golongan (kolom vertikal) dan 7 periode (baris
    • Blok f (lantanida & aktinida) 
 
 #### 3.3. Sifat Periodik Unsur
-
 Sifat-sifat unsur dalam tabel periodik menunjukkan pola periodik (berulang) yang terkait dengan konfigurasi elektron.
 
 #### 3.4. Hubungan SPU dengan Konfigurasi Elektron
