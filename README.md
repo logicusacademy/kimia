@@ -110,6 +110,7 @@ Contoh: Atom Na (Z = 11) → 2, 8, 1
 
 2) Konfigurasi Orbital (Model Kuantum):
 Elektron menempati orbital berdasarkan prinsip aufbau (pengisian bertahap), larangan Pauli, dan aturan Hund.
+
 • Urutan pengisian energi (dari rendah ke tinggi):
 1s → 2s → 2p → 3s → 3p → 4s → 3d → 4p → 5s → 4d → 5p → 6s → 4f → 5d → 6p …
 
