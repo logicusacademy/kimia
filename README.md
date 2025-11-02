@@ -176,9 +176,23 @@ Contoh: Na (kulit K, L, M = 3 kulit) → periode 3.
 Hubungan ini menjelaskan mengapa sifat unsur berulang secara periodik — karena pengisian elektron pada kulit dan orbital berulang dengan pola yang sama.
 
 ### 4. Ikatan Kimia
-**CP:** Menjelaskan jenis ikatan & gaya antarmolekul serta dampaknya pada sifat zat.  
-**Fokus:** ion, kovalen, logam; polaritas; H-bond; van der Waals.  
-**TKA selaras:** analogi model–fenomena (titik didih/kelarutan).
+Setiap zat di alam tersusun atas atom yang saling berikatan membentuk molekul atau senyawa.
+Ikatan kimia terbentuk karena atom-atom berusaha mencapai kestabilan, biasanya dengan memiliki konfigurasi elektron seperti gas mulia (aturan oktet atau duplet).
+
+Kestabilan atom dicapai melalui transfer (pemindahan), peminjaman (pemakaian bersama), atau delokalisasi elektron, menghasilkan berbagai jenis ikatan dengan sifat berbeda.
+
+Pemahaman tentang ikatan kimia menjadi kunci untuk menjelaskan sifat zat, energi reaksi, dan struktur molekul.
+Ikatan kimia adalah “bahasa universal” yang menjelaskan bagaimana atom berinteraksi untuk membentuk segala sesuatu di sekitar kita.
+
+#### 4.1. Konsep Dasar Pembentukan Ikatan
+
+1) Aturan Oktet dan Duplet:
+Atom cenderung stabil bila memiliki 8 elektron valensi (oktet) atau 2 elektron (duplet, untuk H, He, Li, Be). Kestabilan ini dicapai dengan melepaskan, menerima, atau berbagi elektron.
+
+2) Energi Ikatan:
+Pembentukan ikatan melepaskan energi (proses eksoterm), sedangkan pemutusan ikatan memerlukan energi (proses endoterm).
+
+Makin besar energi ikatan → makin kuat ikatan.
 
 ### 5. Tata Nama Senyawa dan Persamaan Reaksi
 **CP:** Menerapkan IUPAC dasar dan menyetarakan reaksi.  
