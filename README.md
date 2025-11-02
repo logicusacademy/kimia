@@ -94,6 +94,35 @@ Ilmu tentang struktur atom berkembang melalui kajian ilmiah bertahap berdasarkan
 
 Model mekanika kuantum menjelaskan bahwa elektron bersifat ganda (partikel dan gelombang), dan keberadaannya dijelaskan secara probabilistik, bukan deterministik.
 
+#### 2.2. Partikel Penyusun Atom
+Inti atom mengandung proton dan neutron (massa atom), sedangkan elektron menentukan sifat kimia karena terlibat langsung dalam pembentukan ikatan.
+
+#### 2.3. Konfigurasi Elektron
+Konfigurasi elektron menjelaskan penempatan elektron dalam kulit atau orbital berdasarkan tingkat energi.
+
+1) Kulit Elektron (Model Bohr):
+Kulit diberi simbol K, L, M, N, O...
+
+• Jumlah maksimum elektron: 2n²
+(n = nomor kulit)
+
+Contoh: Atom Na (Z = 11) → 2, 8, 1
+
+2) Konfigurasi Orbital (Model Kuantum):
+Elektron menempati orbital berdasarkan prinsip aufbau (pengisian bertahap), larangan Pauli, dan aturan Hund.
+• Urutan pengisian energi (dari rendah ke tinggi):
+1s → 2s → 2p → 3s → 3p → 4s → 3d → 4p → 5s → 4d → 5p → 6s → 4f → 5d → 6p …
+
+Contoh:
+H (Z = 1): 1s¹
+O (Z = 8): 1s² 2s² 2p⁴
+Na (Z = 11): 1s² 2s² 2p⁶ 3s¹
+Cl (Z = 17): 1s² 2s² 2p⁶ 3s² 3p⁵
+
+Konfigurasi ini menentukan golongan dan periode unsur dalam tabel periodik:
+• Elektron valensi = jumlah elektron di kulit terluar → menentukan golongan.
+• Jumlah kulit = periode unsur.
+
 ### 3. Sistem Periodik Unsur
 Sistem Periodik Unsur (SPU) merupakan pengelompokan unsur-unsur kimia berdasarkan kemiripan sifat fisika dan kimianya. SPU bukan sekadar daftar unsur, tetapi peta konseptual struktur atom, yang menunjukkan keteraturan alami dalam perilaku unsur di alam.
 
