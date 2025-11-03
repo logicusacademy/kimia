@@ -101,6 +101,7 @@ Inti atom mengandung proton dan neutron (massa atom), sedangkan elektron menentu
 Konfigurasi elektron menjelaskan penempatan elektron dalam kulit atau orbital berdasarkan tingkat energi.
 
 1) Kulit Elektron (Model Bohr):
+
 Kulit diberi simbol K, L, M, N, O...
 
 ● Jumlah maksimum elektron: 2n²
@@ -109,9 +110,11 @@ Kulit diberi simbol K, L, M, N, O...
 Contoh: Atom Na (Z = 11) → 2, 8, 1
 
 2) Konfigurasi Orbital (Model Kuantum):
+
 Elektron menempati orbital berdasarkan prinsip aufbau (pengisian bertahap), larangan Pauli, dan aturan Hund.
 
 ● Urutan pengisian energi (dari rendah ke tinggi):
+
 1s → 2s → 2p → 3s → 3p → 4s → 3d → 4p → 5s → 4d → 5p → 6s → 4f → 5d → 6p …
 
 Contoh:
@@ -121,15 +124,20 @@ Na (Z = 11): 1s² 2s² 2p⁶ 3s¹
 Cl (Z = 17): 1s² 2s² 2p⁶ 3s² 3p⁵
 
 Konfigurasi ini menentukan golongan dan periode unsur dalam tabel periodik:
+
 ● Elektron valensi = jumlah elektron di kulit terluar → menentukan golongan.
+
 ● Jumlah kulit = periode unsur.
 
 ### 3. Sistem Periodik Unsur
 Sistem Periodik Unsur (SPU) merupakan pengelompokan unsur-unsur kimia berdasarkan kemiripan sifat fisika dan kimianya. SPU bukan sekadar daftar unsur, tetapi peta konseptual struktur atom, yang menunjukkan keteraturan alami dalam perilaku unsur di alam.
 
 Pemahaman SPU menjadi fondasi utama dalam kimia, karena:
+
 ● Menghubungkan struktur atom dengan sifat kimia.
+
 ● Memungkinkan prediksi sifat unsur baru.
+
 ● Menjadi bahasa universal kimia dalam komunikasi ilmiah global.
 
 #### 3.1. Sejarah Perkembangan Sistem Periodik
@@ -147,19 +155,29 @@ SPU modern disusun berdasarkan nomor atom (Z), bukan massa atom, karena nomor at
 Tabel periodik modern memiliki 18 golongan (kolom vertikal) dan 7 periode (baris horizontal).
 
 1) Golongan:
+   
    ● Menunjukkan jumlah elektron valensi (elektron terluar).
+   
    ● Unsur dalam satu golongan memiliki sifat kimia mirip.
+   
    ● Golongan utama (A): IA–VIIIA → unsur blok s dan p.
+   
    ● Golongan transisi (B): unsur blok d dan f.
 
-2) Periode:
+3) Periode:
+   
    ● Menunjukkan jumlah kulit elektron dalam atom.
+   
    ● Dari periode 1 (H–He) hingga periode 7 (unsur radioaktif dan sintetis).
 
-3) Blok unsur berdasarkan orbital terakhir:
+4) Blok unsur berdasarkan orbital terakhir:
+   
    ● Blok s (golongan 1 dan 2)
+   
    ● Blok p (golongan 13–18)
+   
    ● Blok d (unsur transisi)
+   
    ● Blok f (lantanida & aktinida) 
 
 #### 3.3. Sifat Periodik Unsur
@@ -168,10 +186,12 @@ Sifat-sifat unsur dalam tabel periodik menunjukkan pola periodik (berulang) yang
 #### 3.4. Hubungan SPU dengan Konfigurasi Elektron
 
 ● Golongan → ditentukan oleh jumlah elektron valensi.
-Contoh: Na (1s² 2s² 2p⁶ 3s¹) → 1 elektron valensi → golongan 1A.
+  Contoh:
+  ○ Na (1s² 2s² 2p⁶ 3s¹) → 1 elektron valensi → golongan 1A.
 
 ● Periode → ditentukan oleh jumlah kulit elektron.
-Contoh: Na (kulit K, L, M = 3 kulit) → periode 3.
+  Contoh:
+  ○ Na (kulit K, L, M = 3 kulit) → periode 3.
 
 Hubungan ini menjelaskan mengapa sifat unsur berulang secara periodik — karena pengisian elektron pada kulit dan orbital berulang dengan pola yang sama.
 
@@ -187,12 +207,12 @@ Ikatan kimia adalah “bahasa universal” yang menjelaskan bagaimana atom berin
 #### 4.1. Konsep Dasar Pembentukan Ikatan
 
 1) Aturan Oktet dan Duplet:
+
 Atom cenderung stabil bila memiliki 8 elektron valensi (oktet) atau 2 elektron (duplet, untuk H, He, Li, Be). Kestabilan ini dicapai dengan melepaskan, menerima, atau berbagi elektron.
 
 2) Energi Ikatan:
-Pembentukan ikatan melepaskan energi (proses eksoterm), sedangkan pemutusan ikatan memerlukan energi (proses endoterm).
 
-Makin besar energi ikatan → makin kuat ikatan.
+Pembentukan ikatan melepaskan energi (proses eksoterm), sedangkan pemutusan ikatan memerlukan energi (proses endoterm). Makin besar energi ikatan → makin kuat ikatan.
 
 #### 4.2. Jenis Ikatan
 1) Ikatan Ionik (Elektrovalen)
@@ -213,12 +233,15 @@ Makin besar energi ikatan → makin kuat ikatan.
 
 ● Jumlah pasangan elektron bersama menentukan jenis ikatan:
 
-  ○ 1 pasangan → ikatan tunggal
-  ○ 2 pasangan → ikatan rangkap dua
-  ○ 3 pasangan → ikatan rangkap tiga
+  ○ 1 pasangan → ikatan tunggal (H–H)
   
-   a) Ikatan Kovalen Polar
-   b) Ikatan Kovalen Nonpolar
+  ○ 2 pasangan → ikatan rangkap dua (O=O)
+  
+  ○ 3 pasangan → ikatan rangkap tiga (N≡N)
+  
+   a) Ikatan Kovalen Polar: elektron tidak merata → muatan parsial terbentuk (HCl, H₂O).
+   
+   b) Ikatan Kovalen Nonpolar: elektron merata → tidak ada muatan (Cl₂, CH₄).
 
 ### 5. Tata Nama Senyawa dan Persamaan Reaksi
 **CP:** Menerapkan IUPAC dasar dan menyetarakan reaksi.  
