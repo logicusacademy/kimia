@@ -75,9 +75,9 @@ Dengan ruang lingkup yang luas, kimia menjadi ilmu yang mengintegrasikan konsep 
 Atom adalah partikel dasar penyusun seluruh materi di alam semesta. Segala sifat kimia dan fisika suatu zat ditentukan oleh susunan partikel subatomik (proton, neutron, dan elektron) serta konfigurasi elektron dalam atom tersebut.
 
 Pemahaman struktur atom menjadi fondasi bagi seluruh cabang ilmu kimia, karena dari sinilah dapat dijelaskan:
-• mengapa unsur berbeda memiliki sifat berbeda,
-• bagaimana atom bergabung membentuk molekul, dan 
-• bagaimana energi berperan dalam ikatan kimia dan reaksi.
+● mengapa unsur berbeda memiliki sifat berbeda,
+● bagaimana atom bergabung membentuk molekul, dan 
+● bagaimana energi berperan dalam ikatan kimia dan reaksi.
 
 #### 2.1. Perkembangan Model Atom
 Ilmu tentang struktur atom berkembang melalui kajian ilmiah bertahap berdasarkan data eksperimen. Evolusi model atom menunjukkan bagaimana pemikiran ilmuwan berkembang dari konkret menuju abstrak dan kuantitatif.
@@ -103,7 +103,7 @@ Konfigurasi elektron menjelaskan penempatan elektron dalam kulit atau orbital be
 1) Kulit Elektron (Model Bohr):
 Kulit diberi simbol K, L, M, N, O...
 
-• Jumlah maksimum elektron: 2n²
+● Jumlah maksimum elektron: 2n²
 (n = nomor kulit)
 
 Contoh: Atom Na (Z = 11) → 2, 8, 1
@@ -111,7 +111,7 @@ Contoh: Atom Na (Z = 11) → 2, 8, 1
 2) Konfigurasi Orbital (Model Kuantum):
 Elektron menempati orbital berdasarkan prinsip aufbau (pengisian bertahap), larangan Pauli, dan aturan Hund.
 
-• Urutan pengisian energi (dari rendah ke tinggi):
+● Urutan pengisian energi (dari rendah ke tinggi):
 1s → 2s → 2p → 3s → 3p → 4s → 3d → 4p → 5s → 4d → 5p → 6s → 4f → 5d → 6p …
 
 Contoh:
@@ -121,16 +121,16 @@ Na (Z = 11): 1s² 2s² 2p⁶ 3s¹
 Cl (Z = 17): 1s² 2s² 2p⁶ 3s² 3p⁵
 
 Konfigurasi ini menentukan golongan dan periode unsur dalam tabel periodik:
-• Elektron valensi = jumlah elektron di kulit terluar → menentukan golongan.
-• Jumlah kulit = periode unsur.
+● Elektron valensi = jumlah elektron di kulit terluar → menentukan golongan.
+● Jumlah kulit = periode unsur.
 
 ### 3. Sistem Periodik Unsur
 Sistem Periodik Unsur (SPU) merupakan pengelompokan unsur-unsur kimia berdasarkan kemiripan sifat fisika dan kimianya. SPU bukan sekadar daftar unsur, tetapi peta konseptual struktur atom, yang menunjukkan keteraturan alami dalam perilaku unsur di alam.
 
 Pemahaman SPU menjadi fondasi utama dalam kimia, karena:
-• Menghubungkan struktur atom dengan sifat kimia.
-• Memungkinkan prediksi sifat unsur baru.
-• Menjadi bahasa universal kimia dalam komunikasi ilmiah global.
+● Menghubungkan struktur atom dengan sifat kimia.
+● Memungkinkan prediksi sifat unsur baru.
+● Menjadi bahasa universal kimia dalam komunikasi ilmiah global.
 
 #### 3.1. Sejarah Perkembangan Sistem Periodik
 Perkembangan SPU menunjukkan proses ilmiah: penyusunan data empiris, pencarian pola, dan penyempurnaan teori.
@@ -147,30 +147,30 @@ SPU modern disusun berdasarkan nomor atom (Z), bukan massa atom, karena nomor at
 Tabel periodik modern memiliki 18 golongan (kolom vertikal) dan 7 periode (baris horizontal).
 
 1) Golongan:
-   • Menunjukkan jumlah elektron valensi (elektron terluar).
-   • Unsur dalam satu golongan memiliki sifat kimia mirip.
-   • Golongan utama (A): IA–VIIIA → unsur blok s dan p.
-   • Golongan transisi (B): unsur blok d dan f.
+   ● Menunjukkan jumlah elektron valensi (elektron terluar).
+   ● Unsur dalam satu golongan memiliki sifat kimia mirip.
+   ● Golongan utama (A): IA–VIIIA → unsur blok s dan p.
+   ● Golongan transisi (B): unsur blok d dan f.
 
 2) Periode:
-   • Menunjukkan jumlah kulit elektron dalam atom.
-   • Dari periode 1 (H–He) hingga periode 7 (unsur radioaktif dan sintetis).
+   ● Menunjukkan jumlah kulit elektron dalam atom.
+   ● Dari periode 1 (H–He) hingga periode 7 (unsur radioaktif dan sintetis).
 
 3) Blok unsur berdasarkan orbital terakhir:
-   • Blok s (golongan 1 dan 2)
-   • Blok p (golongan 13–18)
-   • Blok d (unsur transisi)
-   • Blok f (lantanida & aktinida) 
+   ● Blok s (golongan 1 dan 2)
+   ● Blok p (golongan 13–18)
+   ● Blok d (unsur transisi)
+   ● Blok f (lantanida & aktinida) 
 
 #### 3.3. Sifat Periodik Unsur
 Sifat-sifat unsur dalam tabel periodik menunjukkan pola periodik (berulang) yang terkait dengan konfigurasi elektron.
 
 #### 3.4. Hubungan SPU dengan Konfigurasi Elektron
 
-• Golongan → ditentukan oleh jumlah elektron valensi.
+● Golongan → ditentukan oleh jumlah elektron valensi.
 Contoh: Na (1s² 2s² 2p⁶ 3s¹) → 1 elektron valensi → golongan 1A.
 
-• Periode → ditentukan oleh jumlah kulit elektron.
+● Periode → ditentukan oleh jumlah kulit elektron.
 Contoh: Na (kulit K, L, M = 3 kulit) → periode 3.
 
 Hubungan ini menjelaskan mengapa sifat unsur berulang secara periodik — karena pengisian elektron pada kulit dan orbital berulang dengan pola yang sama.
@@ -193,6 +193,32 @@ Atom cenderung stabil bila memiliki 8 elektron valensi (oktet) atau 2 elektron (
 Pembentukan ikatan melepaskan energi (proses eksoterm), sedangkan pemutusan ikatan memerlukan energi (proses endoterm).
 
 Makin besar energi ikatan → makin kuat ikatan.
+
+#### 4.2. Jenis Ikatan
+1) Ikatan Ionik (Elektrovalen)
+
+● Terjadi antara logam dan nonlogam.
+
+● Logam melepaskan elektron → menjadi kation (+).
+
+● Nonlogam menerima elektron → menjadi anion (−).
+
+● Gaya tarik elektrostatik antara kation dan anion menghasilkan kristal ionik.
+
+2) Ikatan Kovalen
+
+● Terjadi antara dua atom nonlogam.
+
+● Elektron dipakai bersama untuk mencapai kestabilan.
+
+● Jumlah pasangan elektron bersama menentukan jenis ikatan:
+
+  ○ 1 pasangan → ikatan tunggal
+  ○ 2 pasangan → ikatan rangkap dua
+  ○ 3 pasangan → ikatan rangkap tiga
+  
+   a) Ikatan Kovalen Polar
+   b) Ikatan Kovalen Nonpolar
 
 ### 5. Tata Nama Senyawa dan Persamaan Reaksi
 **CP:** Menerapkan IUPAC dasar dan menyetarakan reaksi.  
