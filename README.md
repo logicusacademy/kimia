@@ -243,6 +243,16 @@ Pembentukan ikatan melepaskan energi (proses eksoterm), sedangkan pemutusan ikat
    
    b) Ikatan Kovalen Nonpolar: elektron merata → tidak ada muatan (Cl₂, CH₄).
 
+3) Ikatan Logam
+
+● Terjadi antara atom-atom logam.
+
+● Elektron valensi terdelokalisasi dan bergerak bebas membentuk “lautan elektron” di sekitar inti positif.
+
+● Gaya tarik antara inti positif dan lautan elektron menjaga struktur logam tetap padat dan konduktif.
+
+Lautan elektron ini menjelaskan mengapa logam bersifat konduktor listrik, mudah ditempa, dan mengkilap.
+
 ### 5. Tata Nama Senyawa dan Persamaan Reaksi
 **CP:** Menerapkan IUPAC dasar dan menyetarakan reaksi.  
 **Fokus:** nama senyawa biner/oksida/asam-basa sederhana; hukum kekekalan massa.  
