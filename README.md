@@ -359,7 +359,13 @@ Satu orang memegang dua tali dan menyerahkannya kepada temannya yang tidak punya
 
 ● Gaya tarik antara inti positif dan lautan elektron menjaga struktur logam tetap padat dan konduktif.
 
-Lautan elektron ini menjelaskan mengapa logam bersifat konduktor listrik, mudah ditempa, dan mengkilap.
+● Inilah sebab logam:
+
+  ○ menghantarkan listrik & panas,
+
+  ○ mengkilap,
+
+  ○ dapat ditempa & diregangkan.
 
 ### 5. Tata Nama Senyawa dan Persamaan Reaksi
 **CP:** Menerapkan IUPAC dasar dan menyetarakan reaksi.  
@@ -367,9 +373,64 @@ Lautan elektron ini menjelaskan mengapa logam bersifat konduktor listrik, mudah 
 **TKA selaras:** numerasi proporsi & stoikiometri dasar.
 
 ### 6. Larutan Elektrolit dan Non-Elektrolit
-**CP:** Membedakan larutan berdasarkan daya hantar listrik.  
-**Fokus:** uji konduktivitas; derajat ionisasi.  
-**TKA selaras:** membaca data eksperimen sederhana.
+
+Larutan merupakan bagian penting dalam kimia, biologi, dan kehidupan sehari-hari. Air laut, minuman, darah, hingga bahan pembersih adalah contoh larutan, yakni campuran homogen antara dua atau lebih zat yang tidak dapat dipisahkan secara mekanik.
+
+Memahami larutan menjadi dasar untuk menjelaskan fenomena penting seperti konduktivitas listrik, reaksi kimia dalam tubuh, hingga proses industri.
+
+#### 6.1. Komponen Larutan:
+
+● Zat terlarut (solute) → zat yang jumlahnya lebih sedikit dan terlarut, bisa padat, cair, atau gas.
+
+● Pelarut (solvent) → zat yang jumlahnya lebih banyak dan melarutkan zat lain, umumnya cairan (air paling umum).
+
+Contoh: Air garam = garam (solute) + air (solvent).
+
+#### 6.2. Jenis Larutan Berdasarkan Fase:
+
+#### 6.3. Sifat Fisika Larutan
+
+Larutan homogen memiliki sifat:
+
+● Tidak dapat disaring.
+
+● Tidak mengendap.
+
+● Partikel terlarut berukuran < 1 nm.
+
+● Bersifat jernih dan tembus cahaya (tidak seperti koloid).
+
+#### 6.4. Konsep Elektrolit
+
+Larutan dapat menghantarkan listrik apabila mengandung ion-ion bebas yang bergerak. Kemampuan ini menjadi dasar klasifikasi larutan elektrolit dan non-elektrolit.
+
+1) Elektrolit Kuat:
+
+● Menghantarkan listrik sangat baik (lampu menyala terang).
+
+● Terionisasi sempurna → banyak ion.
+
+2) Elektrolit Lemah
+
+● Menghantarkan listrik lemah (lampu redup, sedikit gelembung).
+
+● Terionisasi sebagian.
+
+3) Non-Elektrolit
+
+● Tidak menghantarkan listrik (lampu mati).
+
+● Tidak terionisasi, tetap sebagai molekul.
+
+#### 6.5. Mekanisme Ionisasi dan Disosiasi
+
+1) Ionisasi:
+
+Proses pembentukan ion dari molekul netral ketika dilarutkan dalam air, terjadi pada senyawa kovalen polar (misal: asam).
+
+2) Disosiasi:
+
+Proses pelepasan ion-ion yang sudah ada dalam senyawa ionik padat ketika dilarutkan, terjadi pada senyawa ionik (misal: garam, basa kuat).
 
 ### 7. Hukum Dasar Kimia dan Stoikiometri
 **CP:** Menggunakan hukum dasar dalam perhitungan mol & reaksi.  
