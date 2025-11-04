@@ -197,12 +197,17 @@ Hubungan ini menjelaskan mengapa sifat unsur berulang secara periodik — karena
 
 ### 4. Ikatan Kimia
 Setiap zat di alam tersusun atas atom yang saling berikatan membentuk molekul atau senyawa.
-Ikatan kimia terbentuk karena atom-atom berusaha mencapai kestabilan, biasanya dengan memiliki konfigurasi elektron seperti gas mulia (aturan oktet atau duplet).
+Ikatan kimia terbentuk karena atom-atom berusaha mencapai kestabilan—yakni konfigurasi elektron seperti gas mulia (aturan oktet atau duplet).
 
-Kestabilan atom dicapai melalui transfer (pemindahan), peminjaman (pemakaian bersama), atau delokalisasi elektron, menghasilkan berbagai jenis ikatan dengan sifat berbeda.
+Kestabilan ini dapat dicapai melalui:
 
-Pemahaman tentang ikatan kimia menjadi kunci untuk menjelaskan sifat zat, energi reaksi, dan struktur molekul.
-Ikatan kimia adalah “bahasa universal” yang menjelaskan bagaimana atom berinteraksi untuk membentuk segala sesuatu di sekitar kita.
+● Pemindahan elektron (membentuk ikatan ionik),
+
+● Pemakaian bersama elektron (membentuk ikatan kovalen), atau
+
+● Delokalisasi elektron (pada logam).
+
+Ilmu tentang ikatan kimia adalah jembatan antara struktur atom dan sifat zat, serta dasar bagi pemahaman reaksi kimia dan energi yang menyertainya.
 
 #### 4.1. Konsep Dasar Pembentukan Ikatan
 
