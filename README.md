@@ -239,9 +239,112 @@ Pembentukan ikatan melepaskan energi (proses eksoterm), sedangkan pemutusan ikat
   
   ○ 3 pasangan → ikatan rangkap tiga (N≡N)
   
-   a) Ikatan Kovalen Polar: elektron tidak merata → muatan parsial terbentuk (HCl, H₂O).
+   a) Ikatan Kovalen Polar
+
+Ikatan kovalen polar terbentuk ketika dua atom memiliki keelektronegatifan berbeda cukup besar (≈ 0,4–1,7), sehingga elektron bersama tertarik lebih kuat ke atom yang lebih elektronegatif.
+
+Ciri:
+
+● Pembagian elektron tidak merata.
+
+● Terjadi muatan parsial: δ⁻ pada atom yang lebih elektronegatif, dan δ⁺ pada atom lain.
+
+● Menimbulkan momen dipol (arah kutub).
+
+Contoh:
+
+○ HCl → Hδ⁺–Clδ⁻
+(Cl lebih elektronegatif → menarik elektron)
+
+○ H₂O → Oδ⁻–Hδ⁺
+(Oksigen menarik pasangan elektron lebih kuat)
+
+○ NH₃ → Nδ⁻–Hδ⁺
+
+Ciri Fisik:
+
+● Bersifat polar → larut dalam pelarut polar (seperti air).
+
+● Titik didih dan leleh relatif lebih tinggi (karena interaksi antarmolekul kuat).
+
+● Dapat membentuk ikatan hidrogen.
+
+Analogi:
+
+Dua orang menarik tali, salah satunya lebih kuat → tali condong ke arah yang lebih kuat (elektron tertarik ke salah satu atom).
    
-   b) Ikatan Kovalen Nonpolar: elektron merata → tidak ada muatan (Cl₂, CH₄).
+   b) Ikatan Kovalen Nonpolar
+   
+Ikatan kovalen non-polar terbentuk ketika dua atom memiliki keelektronegatifan sama atau hampir sama, sehingga elektron dibagi secara merata.
+
+Ciri:
+
+● Tidak ada pergeseran pasangan elektron ke salah satu atom.
+
+● Tidak terbentuk muatan parsial (tidak ada δ⁺ atau δ⁻).
+
+● Distribusi elektron simetris di sekitar atom.
+
+Contoh:
+
+○ H₂ → H–H
+(Perbedaan keelektronegatifan = 0)
+
+○ Cl₂ → Cl–Cl
+
+○ CH₄ → C–H memiliki perbedaan keelektronegatifan kecil, masih dianggap non-polar secara keseluruhan.
+
+Ciri Fisik:
+
+● Tidak larut dalam air (karena air polar).
+
+● Titik leleh rendah.
+
+● Tidak menghantarkan listrik.
+
+Analogi:
+
+Dua orang menarik tali dengan gaya yang sama → tali tetap di tengah (elektron dibagi merata).
+
+   c) Ikatan Kovalen Semi-Polar
+
+Ikatan semi-polar atau koordinasi adalah ikatan kovalen di mana kedua elektron yang dipakai bersama berasal dari satu atom saja, sedangkan atom lain hanya “menyumbang ruang kosong” (orbital kosong). Jadi, elektron tetap dibagi berdua, tetapi asal elektron berasal dari satu atom.
+
+Ciri:
+
+● Jenis khusus dari ikatan kovalen.
+
+● Dapat terjadi pada molekul netral maupun ionik kompleks.
+
+● Sering ditemukan dalam senyawa yang memiliki atom dengan pasangan elektron bebas (lone pair).
+
+Contoh:
+
+○ Ion amonium:
+
+   NH₃ + H⁺ → [NH₄]⁺
+
+(Ikatan N–H terakhir adalah semi-polar.)
+
+○ Ion hidronium:
+
+   H₂O + H⁺ → [H₃O]⁺
+
+(Ikatan O–H terakhir adalah semi-polar.)
+
+○ Asam Lewis–Basa Lewis:
+
+   BF₃ + :NH₃ → F₃B←NH₃
+
+Ciri Fisik:
+
+● Umumnya bersifat polar karena asimetri distribusi elektron.
+
+● Sering muncul dalam kompleks logam dan senyawa asam–basa Lewis.
+
+Analogi:
+
+Satu orang memegang dua tali dan menyerahkannya kepada temannya yang tidak punya tali — mereka tetap memegang bersama, tapi sumbernya dari satu sisi.
 
 3) Ikatan Logam
 
