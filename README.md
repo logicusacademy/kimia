@@ -435,9 +435,58 @@ Proses pembentukan ion dari molekul netral ketika dilarutkan dalam air, terjadi 
 Proses pelepasan ion-ion yang sudah ada dalam senyawa ionik padat ketika dilarutkan, terjadi pada senyawa ionik (misal: garam, basa kuat).
 
 ### 7. Hukum Dasar Kimia dan Stoikiometri
-**CP:** Menggunakan hukum dasar dalam perhitungan mol & reaksi.  
-**Fokus:** Lavoisier, Proust, Dalton, Gay-Lussac, Avogadro; konsep mol; volume gas.  
-**TKA selaras:** penalaran kuantitatif (mol–massa–volume).
+
+Kimia sebagai ilmu kuantitatif tidak hanya mempelajari apa yang terjadi dalam reaksi, tetapi juga berapa banyak zat yang bereaksi dan terbentuk. Di sinilah peran hukum dasar kimia dan stoikiometri, yang memberikan dasar matematis untuk menjelaskan keteraturan alam melalui perbandingan massa dan jumlah zat.
+
+Stoikiometri berasal dari bahasa Yunani stoicheion (unsur) dan metron (pengukuran) — seni menghitung materi di tingkat atom dan molekul.
+
+Pemahaman hukum dasar kimia dan stoikiometri memungkinkan siswa:
+
+● menjelaskan keteraturan hubungan kuantitatif antar zat,
+
+● memprediksi hasil reaksi, dan
+
+● menghubungkan teori atom dengan fenomena nyata di laboratorium maupun industri.
+
+#### 7.1. Hukum Dasar Kimia
+
+1). Hukum Kekekalan Massa – Antoine Lavoisier (1789)
+
+Massa zat sebelum dan sesudah reaksi kimia adalah tetap. Tidak ada massa yang hilang, hanya berubah bentuk.
+
+2). Hukum Perbandingan Tetap – Joseph Proust (1799)
+
+Suatu senyawa selalu mengandung unsur-unsur penyusunnya dengan perbandingan massa yang tetap.
+
+3). Hukum Perbandingan Berganda – John Dalton (1803)
+
+Jika dua unsur membentuk lebih dari satu senyawa, maka perbandingan massa salah satu unsur yang bergabung dengan unsur lainnya adalah bilangan bulat sederhana.
+
+4). Hukum Perbandingan Volume – Joseph Gay-Lussac (1808)
+
+Volume gas-gas yang bereaksi dan hasilnya pada suhu dan tekanan sama, berbanding bilangan bulat sederhana.
+
+5). Hukum Avogadro – Amedeo Avogadro (1811)
+
+Volume gas-gas yang sama pada suhu dan tekanan sama mengandung jumlah molekul yang sama.
+
+#### 7.2. Hubungan Hukum Dasar Kimia dan Teori Atom Dalton
+
+John Dalton menyatukan semua hukum di atas melalui teori atom (1808):
+
+● Materi tersusun atas partikel kecil yang disebut atom.
+
+● Atom dari unsur yang sama identik, berbeda dari unsur lain.
+
+● Atom bergabung dalam perbandingan bilangan bulat dan sederhana membentuk senyawa.
+
+● Reaksi kimia adalah penataan ulang atom, bukan penciptaan atau penghancuran atom.
+
+Teori ini menjelaskan mengapa hukum kekekalan massa dan hukum perbandingan tetap berlaku universal.
+
+#### 7.3. Stoikiometri: Pengukuran dalam Reaksi Kimia
+
+Stoikiometri membahas hubungan kuantitatif antara pereaksi dan hasil reaksi berdasarkan persamaan reaksi kimia yang setara. Dasarnya adalah mol (n) — satuan jumlah zat.
 
 ### 8. Kimia Hijau dan Nanoteknologi
 #### 8.1. Pengantar
