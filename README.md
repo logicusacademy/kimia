@@ -402,6 +402,8 @@ Larutan homogen memiliki sifat:
 
 #### 6.4. Konsep Elektrolit
 
+Menurut Svante Arrhenius (1884), “senyawa yang dalam air terionisasi menghasilkan ion-ion bermuatan listrik disebut elektrolit, sedangkan senyawa yang tidak menghasilkan ion disebut non-elektrolit.”
+
 Larutan dapat menghantarkan listrik apabila mengandung ion-ion bebas yang bergerak. Kemampuan ini menjadi dasar klasifikasi larutan elektrolit dan non-elektrolit.
 
 1) Elektrolit Kuat:
