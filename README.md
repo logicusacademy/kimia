@@ -486,7 +486,11 @@ Teori ini menjelaskan mengapa hukum kekekalan massa dan hukum perbandingan tetap
 
 #### 7.3. Stoikiometri: Pengukuran dalam Reaksi Kimia
 
-Stoikiometri membahas hubungan kuantitatif antara pereaksi dan hasil reaksi berdasarkan persamaan reaksi kimia yang setara. Dasarnya adalah mol (n) — satuan jumlah zat.
+Stoikiometri membahas hubungan kuantitatif antara pereaksi dan hasil reaksi berdasarkan persamaan reaksi kimia yang setara.
+
+● Mol adalah satuan untuk menyatakan jumlah partikel (atom, ion, molekul).
+
+● Satu mol mengandung 6,022 × 10²³ partikel (Bilangan Avogadro).
 
 1). Langkah Umum Perhitungan Stoikiometri
 
@@ -534,9 +538,32 @@ Hasil teoretis: jumlah produk maksimum yang dihitung dari reaksi sempurna.
 Hasil aktual: jumlah produk nyata di laboratorium.
 
 Rendemen (%):
+Rendemen = hasil aktual / hasil teoretis x 100%
 
-  Rendemen = hasil aktual / hasil teoretis x 100%
-  
+  4). Senyawa Hidrat
+
+Senyawa hidrat adalah senyawa kristal yang mengandung air dalam perbandingan tertentu secara kimiawi. Air ini disebut air kristalisasi (H₂O kristal).
+
+Contoh:
+
+    CuSO₄·5H₂O → tembaga(II) sulfat pentahidrat
+
+    Na₂CO₃·10H₂O → natrium karbonat dekahidrat
+
+Jika senyawa hidrat dipanaskan, air kristalnya hilang:
+
+    CuSO₄·5H₂O → CuSO₄ + 5H₂O
+
+Untuk menentukan rumus senyawa hidrat:
+
+● Timbang massa zat sebelum dan sesudah dipanaskan.
+
+● Hitung massa air yang hilang.
+
+● Tentukan perbandingan mol garam anhidrat dan air.
+
+Stoikiometri bukan sekadar hitung-hitungan, tetapi cara ilmiah untuk memahami keseimbangan alam dalam setiap perubahan materi.
+
 ### 8. Kimia Hijau dan Nanoteknologi
 #### 8.1. Pengantar
 Kimia Hijau (Green Chemistry) adalah cabang ilmu kimia yang berfokus pada perancangan produk dan proses kimia yang ramah lingkungan, efisien, dan berkelanjutan, dengan meminimalkan penggunaan serta pembentukan zat berbahaya.
