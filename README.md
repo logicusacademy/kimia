@@ -488,6 +488,33 @@ Teori ini menjelaskan mengapa hukum kekekalan massa dan hukum perbandingan tetap
 
 Stoikiometri membahas hubungan kuantitatif antara pereaksi dan hasil reaksi berdasarkan persamaan reaksi kimia yang setara. Dasarnya adalah mol (n) — satuan jumlah zat.
 
+1) Langkah Umum Perhitungan Stoikiometri
+
+   a) Tulis persamaan reaksi dan setarakan.
+      Contoh:
+
+      H₂ + O₂ → H₂O (belum setara)
+
+      2H₂ + O₂ → 2H₂O (setara)
+
+   b) Ubah data menjadi mol.
+      
+      Misalnya, diketahui 4 mol H₂ → bereaksi dengan berapa mol O₂?
+
+   c) Gunakan perbandingan koefisien reaksi.
+     
+      Berdasarkan reaksi:
+     
+      2 mol H₂ : 1 mol O₂
+      
+      Jadi, 4 mol H₂ → 2 mol O₂.
+
+   d) Hitung zat hasil.
+
+      2H₂ + O₂ → 2H₂O
+
+      Artinya, 4 mol H₂ → 4 mol H₂O.
+
 ### 8. Kimia Hijau dan Nanoteknologi
 #### 8.1. Pengantar
 Kimia Hijau (Green Chemistry) adalah cabang ilmu kimia yang berfokus pada perancangan produk dan proses kimia yang ramah lingkungan, efisien, dan berkelanjutan, dengan meminimalkan penggunaan serta pembentukan zat berbahaya.
