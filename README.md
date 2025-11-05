@@ -56,17 +56,17 @@ Kimia adalah cabang sains yang mempelajari materi, mencakup komposisi, struktur,
 Ilmu kimia berperan menjembatani berbagai disiplin ilmu — dari fisika dan biologi, hingga geologi, kedokteran, teknik, dan lingkungan — karena hampir semua fenomena alam melibatkan perubahan zat dan energi. Oleh karena itu, kimia dikenal sebagai “Central of Science” (pusat dari ilmu pengetahuan), karena menjadi penghubung antara ilmu-ilmu alam (fisika, biologi, geosains) dan ilmu terapan (kedokteran, teknik, farmasi, lingkungan).
 
 #### 1.1. Ruang Lingkup Ilmu Kimia
-1) Kimia Fisik: mempelajari energi dan perubahan pada zat (terkait fisika).
+1). Kimia Fisik: mempelajari energi dan perubahan pada zat (terkait fisika).
 Contoh: termokimia, kinetika reaksi.
-2) Kimia Organik: mempelajari senyawa karbon dan turunannya.
+2). Kimia Organik: mempelajari senyawa karbon dan turunannya.
 Contoh: bahan bakar, plastik, obat.
-3) Kimia Anorganik: mempelajari senyawa non-karbon seperti logam, garam, dan mineral.
+3). Kimia Anorganik: mempelajari senyawa non-karbon seperti logam, garam, dan mineral.
 Contoh: pupuk, bahan bangunan, logam industri.
-4) Kimia Analitik: mempelajari teknik identifikasi dan kuantifikasi zat.
+4). Kimia Analitik: mempelajari teknik identifikasi dan kuantifikasi zat.
 Contoh: analisis air, uji pH, spektrofotometri.
-5) Biokimia: mempelajari reaksi kimia dalam makhluk hidup.
+5). Biokimia: mempelajari reaksi kimia dalam makhluk hidup.
 Contoh: metabolisme, enzim, fotosintesis.
-6) Kimia Lingkungan: mempelajari interaksi zat kimia dalam ekosistem.
+6). Kimia Lingkungan: mempelajari interaksi zat kimia dalam ekosistem.
 Contoh: polusi udara, limbah cair, ozon.
 
 Dengan ruang lingkup yang luas, kimia menjadi ilmu yang mengintegrasikan konsep energi, materi, dan kehidupan.
@@ -81,15 +81,15 @@ Pemahaman struktur atom menjadi fondasi bagi seluruh cabang ilmu kimia, karena d
 
 #### 2.1. Perkembangan Model Atom
 Ilmu tentang struktur atom berkembang melalui kajian ilmiah bertahap berdasarkan data eksperimen. Evolusi model atom menunjukkan bagaimana pemikiran ilmuwan berkembang dari konkret menuju abstrak dan kuantitatif.
-1) Model Atom Dalton
+1). Model Atom Dalton
    Atom merupakan partikel terkecil, tidak dapat dibagi, setiap unsur tersusun atas atom identik.
-2) Model Atom Thomson
+2). Model Atom Thomson
    Atom bermuatan netral, terdiri dari elektron negatif tersebar dalam bola positif (“roti kismis”).
-3) Model Atom Rutherford
+3). Model Atom Rutherford
    Atom terdiri dari inti bermuatan positif (proton) dan elektron beredar di sekitarnya.
-4) Model Atom Bohr
+4). Model Atom Bohr
    Elektron bergerak pada lintasan (kulit) tertentu dengan energi tetap; energi dilepaskan/diserap saat berpindah kulit.
-5) Model Atom Mekanika Kuantum
+5). Model Atom Mekanika Kuantum
    Elektron tidak bergerak pada lintasan tetap, tetapi menempati orbital dengan probabilitas tertentu.
 
 Model mekanika kuantum menjelaskan bahwa elektron bersifat ganda (partikel dan gelombang), dan keberadaannya dijelaskan secara probabilistik, bukan deterministik.
@@ -100,7 +100,7 @@ Inti atom mengandung proton dan neutron (massa atom), sedangkan elektron menentu
 #### 2.3. Konfigurasi Elektron
 Konfigurasi elektron menjelaskan penempatan elektron dalam kulit atau orbital berdasarkan tingkat energi.
 
-1) Kulit Elektron (Model Bohr):
+1). Kulit Elektron (Model Bohr):
 
 Kulit diberi simbol K, L, M, N, O...
 
@@ -109,7 +109,7 @@ Kulit diberi simbol K, L, M, N, O...
 
 Contoh: Atom Na (Z = 11) → 2, 8, 1
 
-2) Konfigurasi Orbital (Model Kuantum):
+2). Konfigurasi Orbital (Model Kuantum):
 
 Elektron menempati orbital berdasarkan prinsip aufbau (pengisian bertahap), larangan Pauli, dan aturan Hund.
 
@@ -142,19 +142,19 @@ Pemahaman SPU menjadi fondasi utama dalam kimia, karena:
 
 #### 3.1. Sejarah Perkembangan Sistem Periodik
 Perkembangan SPU menunjukkan proses ilmiah: penyusunan data empiris, pencarian pola, dan penyempurnaan teori.
-1) Johann Döbereiner (1829): Hukum Triad
-2) John Newlands (1864): Hukum Oktaf
-3) Dmitri Mendeleev (1869): Sistem Periodik berdasarkan massa atom
-4) Lothar Meyer (1870): Sistem Periodik berdasarkan volume atom
-5) Henry Moseley (1913): Nomor atom (Z) sebagai dasar SPU modern
-6) Glenn T. Seaborg (1940-an): Unsur transuranium & lantanida–aktinida
+1). Johann Döbereiner (1829): Hukum Triad
+2). John Newlands (1864): Hukum Oktaf
+3). Dmitri Mendeleev (1869): Sistem Periodik berdasarkan massa atom
+4). Lothar Meyer (1870): Sistem Periodik berdasarkan volume atom
+5). Henry Moseley (1913): Nomor atom (Z) sebagai dasar SPU modern
+6). Glenn T. Seaborg (1940-an): Unsur transuranium & lantanida–aktinida
 
 SPU modern disusun berdasarkan nomor atom (Z), bukan massa atom, karena nomor atom mencerminkan jumlah proton dan elektron yang menentukan sifat kimia unsur.
 
 #### 3.2. Struktur Tabel Periodik Modern
 Tabel periodik modern memiliki 18 golongan (kolom vertikal) dan 7 periode (baris horizontal).
 
-1) Golongan:
+1). Golongan:
    
    ● Menunjukkan jumlah elektron valensi (elektron terluar).
    
@@ -164,13 +164,13 @@ Tabel periodik modern memiliki 18 golongan (kolom vertikal) dan 7 periode (baris
    
    ● Golongan transisi (B): unsur blok d dan f.
 
-3) Periode:
+2). Periode:
    
    ● Menunjukkan jumlah kulit elektron dalam atom.
    
    ● Dari periode 1 (H–He) hingga periode 7 (unsur radioaktif dan sintetis).
 
-4) Blok unsur berdasarkan orbital terakhir:
+3). Blok unsur berdasarkan orbital terakhir:
    
    ● Blok s (golongan 1 dan 2)
    
@@ -211,16 +211,16 @@ Ilmu tentang ikatan kimia adalah jembatan antara struktur atom dan sifat zat, se
 
 #### 4.1. Konsep Dasar Pembentukan Ikatan
 
-1) Aturan Oktet dan Duplet:
+1). Aturan Oktet dan Duplet:
 
 Atom cenderung stabil bila memiliki 8 elektron valensi (oktet) atau 2 elektron (duplet, untuk H, He, Li, Be). Kestabilan ini dicapai dengan melepaskan, menerima, atau berbagi elektron.
 
-2) Energi Ikatan:
+2). Energi Ikatan:
 
 Pembentukan ikatan melepaskan energi (proses eksoterm), sedangkan pemutusan ikatan memerlukan energi (proses endoterm). Makin besar energi ikatan → makin kuat ikatan.
 
 #### 4.2. Jenis Ikatan
-1) Ikatan Ionik (Elektrovalen)
+1). Ikatan Ionik (Elektrovalen)
 
 ● Terjadi antara logam dan nonlogam.
 
@@ -230,7 +230,7 @@ Pembentukan ikatan melepaskan energi (proses eksoterm), sedangkan pemutusan ikat
 
 ● Gaya tarik elektrostatik antara kation dan anion menghasilkan kristal ionik.
 
-2) Ikatan Kovalen
+2). Ikatan Kovalen
 
 ● Terjadi antara dua atom nonlogam.
 
@@ -244,7 +244,7 @@ Pembentukan ikatan melepaskan energi (proses eksoterm), sedangkan pemutusan ikat
   
   ○ 3 pasangan → ikatan rangkap tiga (N≡N)
   
-   a) Ikatan Kovalen Polar
+   a). Ikatan Kovalen Polar
 
 Ikatan kovalen polar terbentuk ketika dua atom memiliki keelektronegatifan berbeda cukup besar (≈ 0,4–1,7), sehingga elektron bersama tertarik lebih kuat ke atom yang lebih elektronegatif.
 
@@ -278,7 +278,7 @@ Analogi:
 
 Dua orang menarik tali, salah satunya lebih kuat → tali condong ke arah yang lebih kuat (elektron tertarik ke salah satu atom).
    
-   b) Ikatan Kovalen Nonpolar
+   b). Ikatan Kovalen Nonpolar
    
 Ikatan kovalen non-polar terbentuk ketika dua atom memiliki keelektronegatifan sama atau hampir sama, sehingga elektron dibagi secara merata.
 
@@ -311,7 +311,7 @@ Analogi:
 
 Dua orang menarik tali dengan gaya yang sama → tali tetap di tengah (elektron dibagi merata).
 
-   c) Ikatan Kovalen Semi-Polar
+   c). Ikatan Kovalen Semi-Polar
 
 Ikatan semi-polar atau koordinasi adalah ikatan kovalen di mana kedua elektron yang dipakai bersama berasal dari satu atom saja, sedangkan atom lain hanya “menyumbang ruang kosong” (orbital kosong). Jadi, elektron tetap dibagi berdua, tetapi asal elektron berasal dari satu atom.
 
@@ -351,7 +351,7 @@ Analogi:
 
 Satu orang memegang dua tali dan menyerahkannya kepada temannya yang tidak punya tali — mereka tetap memegang bersama, tapi sumbernya dari satu sisi.
 
-3) Ikatan Logam
+3). Ikatan Logam
 
 ● Terjadi antara atom-atom logam.
 
@@ -406,19 +406,19 @@ Menurut Svante Arrhenius (1884), “senyawa yang dalam air terionisasi menghasil
 
 Larutan dapat menghantarkan listrik apabila mengandung ion-ion bebas yang bergerak. Kemampuan ini menjadi dasar klasifikasi larutan elektrolit dan non-elektrolit.
 
-1) Elektrolit Kuat:
+1). Elektrolit Kuat:
 
 ● Menghantarkan listrik sangat baik (lampu menyala terang).
 
 ● Terionisasi sempurna → banyak ion.
 
-2) Elektrolit Lemah
+2). Elektrolit Lemah
 
 ● Menghantarkan listrik lemah (lampu redup, sedikit gelembung).
 
 ● Terionisasi sebagian.
 
-3) Non-Elektrolit
+3). Non-Elektrolit
 
 ● Tidak menghantarkan listrik (lampu mati).
 
@@ -426,11 +426,11 @@ Larutan dapat menghantarkan listrik apabila mengandung ion-ion bebas yang berger
 
 #### 6.5. Mekanisme Ionisasi dan Disosiasi
 
-1) Ionisasi:
+1). Ionisasi:
 
 Proses pembentukan ion dari molekul netral ketika dilarutkan dalam air, terjadi pada senyawa kovalen polar (misal: asam).
 
-2) Disosiasi:
+2). Disosiasi:
 
 Proses pelepasan ion-ion yang sudah ada dalam senyawa ionik padat ketika dilarutkan, terjadi pada senyawa ionik (misal: garam, basa kuat).
 
@@ -488,33 +488,55 @@ Teori ini menjelaskan mengapa hukum kekekalan massa dan hukum perbandingan tetap
 
 Stoikiometri membahas hubungan kuantitatif antara pereaksi dan hasil reaksi berdasarkan persamaan reaksi kimia yang setara. Dasarnya adalah mol (n) — satuan jumlah zat.
 
-1) Langkah Umum Perhitungan Stoikiometri
+1). Langkah Umum Perhitungan Stoikiometri
 
-   a) Tulis persamaan reaksi dan setarakan.
+a). Setarakan persamaan reaksi
 
       Contoh:
 
-       H₂ + O₂ → H₂O (belum setara)
-       2H₂ + O₂ → 2H₂O (setara)
+      H₂ + O₂ → H₂O (belum setara)
+      2H₂ + O₂ → 2H₂O (setara)
 
-   b) Ubah data menjadi mol.
+b). Ubahlah data ke mol
       
       Misalnya, diketahui 4 mol H₂ → bereaksi dengan berapa mol O₂?
 
-   c) Gunakan perbandingan koefisien reaksi.
+c). Gunakan perbandingan koefisien reaksi
      
       Berdasarkan reaksi:
      
-       2 mol H₂ : 1 mol O₂
+      2 mol H₂ : 1 mol O₂
       
       Jadi, 4 mol H₂ → 2 mol O₂.
 
-   d) Hitung zat hasil.
+d). Hitunglah zat yang ditanyakan
 
-       2H₂ + O₂ → 2H₂O
+      2H₂ + O₂ → 2H₂O
 
       Artinya, 4 mol H₂ → 4 mol H₂O.
+  
+  2). Pereaksi Pembatas
 
+Jika dua pereaksi tidak dalam jumlah stoikiometrik, maka pereaksi yang habis terlebih dahulu disebut pereaksi pembatas (limiting reagent). Pereaksi pembatas menentukan jumlah maksimum produk yang terbentuk.
+
+Langkah:
+
+● Hitung mol masing-masing pereaksi.
+
+● Gunakan perbandingan reaksi → tentukan mana yang habis lebih dulu.
+
+● Gunakan pereaksi pembatas untuk menghitung produk.
+
+  3). Hasil Aktual dan Hasil Teoretis
+
+Hasil teoretis: jumlah produk maksimum yang dihitung dari reaksi sempurna.
+
+Hasil aktual: jumlah produk nyata di laboratorium.
+
+Rendemen (%):
+
+  Rendemen = hasil aktual / hasil teoretis x 100%
+  
 ### 8. Kimia Hijau dan Nanoteknologi
 #### 8.1. Pengantar
 Kimia Hijau (Green Chemistry) adalah cabang ilmu kimia yang berfokus pada perancangan produk dan proses kimia yang ramah lingkungan, efisien, dan berkelanjutan, dengan meminimalkan penggunaan serta pembentukan zat berbahaya.
