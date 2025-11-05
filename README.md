@@ -491,11 +491,11 @@ Stoikiometri membahas hubungan kuantitatif antara pereaksi dan hasil reaksi berd
 1) Langkah Umum Perhitungan Stoikiometri
 
    a) Tulis persamaan reaksi dan setarakan.
+
       Contoh:
 
-      H₂ + O₂ → H₂O (belum setara)
-
-      2H₂ + O₂ → 2H₂O (setara)
+       H₂ + O₂ → H₂O (belum setara)
+       2H₂ + O₂ → 2H₂O (setara)
 
    b) Ubah data menjadi mol.
       
@@ -505,13 +505,13 @@ Stoikiometri membahas hubungan kuantitatif antara pereaksi dan hasil reaksi berd
      
       Berdasarkan reaksi:
      
-      2 mol H₂ : 1 mol O₂
+       2 mol H₂ : 1 mol O₂
       
       Jadi, 4 mol H₂ → 2 mol O₂.
 
    d) Hitung zat hasil.
 
-      2H₂ + O₂ → 2H₂O
+       2H₂ + O₂ → 2H₂O
 
       Artinya, 4 mol H₂ → 4 mol H₂O.
 
