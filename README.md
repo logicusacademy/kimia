@@ -6,7 +6,7 @@
 [![Regulasi](https://img.shields.io/badge/BSKAP-046%2FH%2FKR%2F2025-0a7)](https://kurikulum.kemdikbud.go.id/file/1753929861_manage_file.pdf)
 [![Asesmen](https://img.shields.io/badge/Perkaban-045%2FH%2FAN%2F2025-0a7)](https://pusmendik.kemendikdasmen.go.id/pdf/file-175)
 [![Status](https://img.shields.io/badge/Versi-2025.11-blue)](#)
-[![Lisensi](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Lisensi](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-red)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Silabus lengkap jenjang **SMA/MA** berdasarkan:
 - **SK Kepala BSKAP No. 046/H/KR/2025** (*Capaian Pembelajaran/CP*)
