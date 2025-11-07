@@ -2,11 +2,11 @@
 
 # 📘 Kimia SMA — Kurikulum Merdeka
 
-[![Kurikulum](https://img.shields.io/badge/Kurikulum-Merdeka-0a7)](https://kurikulum.kemdikbud.go.id/file/1711503412_manage_file.pdf)
-[![Regulasi](https://img.shields.io/badge/BSKAP-046%2FH%2FKR%2F2025-0a7)](https://kurikulum.kemdikbud.go.id/file/1753929861_manage_file.pdf)
-[![Asesmen](https://img.shields.io/badge/Perkaban-045%2FH%2FAN%2F2025-0a7)](https://pusmendik.kemendikdasmen.go.id/pdf/file-175)
-[![Status](https://img.shields.io/badge/Versi-2025.11-blue)](#)
-[![Lisensi](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-red)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Kurikulum](https://img.shields.io/badge/Kurikulum-Merdeka-red)](https://kurikulum.kemdikbud.go.id/file/1711503412_manage_file.pdf)
+[![Regulasi](https://img.shields.io/badge/BSKAP-046%2FH%2FKR%2F2025-orange)](https://kurikulum.kemdikbud.go.id/file/1753929861_manage_file.pdf)
+[![Asesmen](https://img.shields.io/badge/Perkaban-045%2FH%2FAN%2F2025-orange)](https://pusmendik.kemendikdasmen.go.id/pdf/file-175)
+[![Status](https://img.shields.io/badge/Versi-2025.11-yellow)](#)
+[![Lisensi](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgreen)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Silabus lengkap jenjang **SMA/MA** berdasarkan:
 - **SK Kepala BSKAP No. 046/H/KR/2025** (*Capaian Pembelajaran/CP*)
