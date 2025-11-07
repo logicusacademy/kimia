@@ -54,17 +54,29 @@ Kimia adalah cabang sains yang mempelajari materi, mencakup komposisi, struktur,
 Ilmu kimia berperan menjembatani berbagai disiplin ilmu — dari fisika dan biologi, hingga geologi, kedokteran, teknik, dan lingkungan — karena hampir semua fenomena alam melibatkan perubahan zat dan energi. Oleh karena itu, kimia dikenal sebagai “Central of Science” (pusat dari ilmu pengetahuan), karena menjadi penghubung antara ilmu-ilmu alam (fisika, biologi, geosains) dan ilmu terapan (kedokteran, teknik, farmasi, lingkungan).
 
 #### 1.1. Ruang Lingkup Ilmu Kimia
+
 1). Kimia Fisik: mempelajari energi dan perubahan pada zat (terkait fisika).
+
 Contoh: termokimia, kinetika reaksi.
+
 2). Kimia Organik: mempelajari senyawa karbon dan turunannya.
+
 Contoh: bahan bakar, plastik, obat.
+
 3). Kimia Anorganik: mempelajari senyawa non-karbon seperti logam, garam, dan mineral.
+
 Contoh: pupuk, bahan bangunan, logam industri.
+
 4). Kimia Analitik: mempelajari teknik identifikasi dan kuantifikasi zat.
+
 Contoh: analisis air, uji pH, spektrofotometri.
+
 5). Biokimia: mempelajari reaksi kimia dalam makhluk hidup.
+
 Contoh: metabolisme, enzim, fotosintesis.
+
 6). Kimia Lingkungan: mempelajari interaksi zat kimia dalam ekosistem.
+
 Contoh: polusi udara, limbah cair, ozon.
 
 Dengan ruang lingkup yang luas, kimia menjadi ilmu yang mengintegrasikan konsep energi, materi, dan kehidupan.
@@ -73,22 +85,33 @@ Dengan ruang lingkup yang luas, kimia menjadi ilmu yang mengintegrasikan konsep 
 Atom adalah partikel dasar penyusun seluruh materi di alam semesta. Segala sifat kimia dan fisika suatu zat ditentukan oleh susunan partikel subatomik (proton, neutron, dan elektron) serta konfigurasi elektron dalam atom tersebut.
 
 Pemahaman struktur atom menjadi fondasi bagi seluruh cabang ilmu kimia, karena dari sinilah dapat dijelaskan:
+
 ● mengapa unsur berbeda memiliki sifat berbeda,
-● bagaimana atom bergabung membentuk molekul, dan 
-● bagaimana energi berperan dalam ikatan kimia dan reaksi.
+
+● bagaimana atom bergabung membentuk molekul, dan ● bagaimana energi berperan dalam ikatan kimia dan reaksi.
 
 #### 2.1. Perkembangan Model Atom
 Ilmu tentang struktur atom berkembang melalui kajian ilmiah bertahap berdasarkan data eksperimen. Evolusi model atom menunjukkan bagaimana pemikiran ilmuwan berkembang dari konkret menuju abstrak dan kuantitatif.
+
 1). Model Atom Dalton
-   Atom merupakan partikel terkecil, tidak dapat dibagi, setiap unsur tersusun atas atom identik.
+    
+  Atom merupakan partikel terkecil, tidak dapat dibagi, setiap unsur tersusun atas atom identik.
+
 2). Model Atom Thomson
-   Atom bermuatan netral, terdiri dari elektron negatif tersebar dalam bola positif (“roti kismis”).
+    
+  Atom bermuatan netral, terdiri dari elektron negatif tersebar dalam bola positif (“roti kismis”).
+
 3). Model Atom Rutherford
-   Atom terdiri dari inti bermuatan positif (proton) dan elektron beredar di sekitarnya.
+  
+  Atom terdiri dari inti bermuatan positif (proton) dan elektron beredar di sekitarnya.
+
 4). Model Atom Bohr
-   Elektron bergerak pada lintasan (kulit) tertentu dengan energi tetap; energi dilepaskan/diserap saat berpindah kulit.
+ 
+  Elektron bergerak pada lintasan (kulit) tertentu dengan energi tetap; energi dilepaskan/diserap saat berpindah kulit.
+
 5). Model Atom Mekanika Kuantum
-   Elektron tidak bergerak pada lintasan tetap, tetapi menempati orbital dengan probabilitas tertentu.
+  
+  Elektron tidak bergerak pada lintasan tetap, tetapi menempati orbital dengan probabilitas tertentu.
 
 Model mekanika kuantum menjelaskan bahwa elektron bersifat ganda (partikel dan gelombang), dan keberadaannya dijelaskan secara probabilistik, bukan deterministik.
 
@@ -116,9 +139,13 @@ Elektron menempati orbital berdasarkan prinsip aufbau (pengisian bertahap), lara
 1s → 2s → 2p → 3s → 3p → 4s → 3d → 4p → 5s → 4d → 5p → 6s → 4f → 5d → 6p …
 
 Contoh:
+
 H (Z = 1): 1s¹
+
 O (Z = 8): 1s² 2s² 2p⁴
+
 Na (Z = 11): 1s² 2s² 2p⁶ 3s¹
+
 Cl (Z = 17): 1s² 2s² 2p⁶ 3s² 3p⁵
 
 Konfigurasi ini menentukan golongan dan periode unsur dalam tabel periodik:
@@ -140,11 +167,17 @@ Pemahaman SPU menjadi fondasi utama dalam kimia, karena:
 
 #### 3.1. Sejarah Perkembangan Sistem Periodik
 Perkembangan SPU menunjukkan proses ilmiah: penyusunan data empiris, pencarian pola, dan penyempurnaan teori.
+
 1). Johann Döbereiner (1829): Hukum Triad
+
 2). John Newlands (1864): Hukum Oktaf
+
 3). Dmitri Mendeleev (1869): Sistem Periodik berdasarkan massa atom
+
 4). Lothar Meyer (1870): Sistem Periodik berdasarkan volume atom
+
 5). Henry Moseley (1913): Nomor atom (Z) sebagai dasar SPU modern
+
 6). Glenn T. Seaborg (1940-an): Unsur transuranium & lantanida–aktinida
 
 SPU modern disusun berdasarkan nomor atom (Z), bukan massa atom, karena nomor atom mencerminkan jumlah proton dan elektron yang menentukan sifat kimia unsur.
@@ -184,11 +217,15 @@ Sifat-sifat unsur dalam tabel periodik menunjukkan pola periodik (berulang) yang
 #### 3.4. Hubungan SPU dengan Konfigurasi Elektron
 
 ● Golongan → ditentukan oleh jumlah elektron valensi.
+  
   Contoh:
+  
   ○ Na (1s² 2s² 2p⁶ 3s¹) → 1 elektron valensi → golongan 1A.
 
 ● Periode → ditentukan oleh jumlah kulit elektron.
+  
   Contoh:
+  
   ○ Na (kulit K, L, M = 3 kulit) → periode 3.
 
 Hubungan ini menjelaskan mengapa sifat unsur berulang secara periodik — karena pengisian elektron pada kulit dan orbital berulang dengan pola yang sama.
@@ -257,9 +294,11 @@ Ciri:
 Contoh:
 
 ○ HCl → Hδ⁺–Clδ⁻
+
 (Cl lebih elektronegatif → menarik elektron)
 
 ○ H₂O → Oδ⁻–Hδ⁺
+
 (Oksigen menarik pasangan elektron lebih kuat)
 
 ○ NH₃ → Nδ⁻–Hδ⁺
@@ -291,11 +330,14 @@ Ciri:
 Contoh:
 
 ○ H₂ → H–H
-(Perbedaan keelektronegatifan = 0)
+
+(Perbedaan elektronegativitas = 0)
 
 ○ Cl₂ → Cl–Cl
 
-○ CH₄ → C–H memiliki perbedaan keelektronegatifan kecil, masih dianggap non-polar secara keseluruhan.
+○ CH₄ → C–H 
+
+(Perbedaan elektronegativitas kecil, masih dianggap non-polar secara keseluruhan)
 
 Ciri Fisik:
 
@@ -327,13 +369,13 @@ Contoh:
 
    NH₃ + H⁺ → [NH₄]⁺
 
-(Ikatan N–H terakhir adalah semi-polar.)
+(Ikatan N–H terakhir adalah semi-polar)
 
 ○ Ion hidronium:
 
    H₂O + H⁺ → [H₃O]⁺
 
-(Ikatan O–H terakhir adalah semi-polar.)
+(Ikatan O–H terakhir adalah semi-polar)
 
 ○ Asam Lewis–Basa Lewis:
 
