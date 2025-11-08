@@ -629,9 +629,6 @@ Kimia hijau dikembangkan oleh Paul Anastas dan John Warner (1998) dengan 12 prin
 
 ## Kelas 11 — Reaksi dan Energi
 
-<details>
-  <summary><b>⚗️ Ringkasan Kelas 11</b></summary>
-
 ### 1. Senyawa Hidrokarbon dan Minyak Bumi
 **CP:** Menganalisis struktur, sifat, dan perolehan senyawa karbon sederhana.  
 **Fokus:** alkana/alkena/alkuna/aromatik; distilasi fraksionasi.  
