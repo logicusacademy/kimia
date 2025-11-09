@@ -686,9 +686,6 @@ Kimia hijau dikembangkan oleh Paul Anastas dan John Warner (1998) dengan 12 prin
 
 ## Kelas 12 — Integrasi & Aplikasi Kimia
 
-<details>
-  <summary><b>🔬 Ringkasan Kelas 12</b></summary>
-
 ### 1. Sifat Koligatif Larutan
 **CP:** Menjelaskan sifat yang bergantung pada jumlah partikel terlarut.  
 **Fokus:** penurunan tekanan uap, kenaikan Tb, penurunan Tf, tekanan osmotik; contoh penerapan.  
