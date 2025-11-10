@@ -41,7 +41,7 @@ Silabus lengkap jenjang **SMA/MA** berdasarkan:
   - [2. Redoks](#2-reaksi-reduksioksidasi-redoks)
   - [3. Elektrokimia](#3-elektrokimia)
   - [4. Turunan Alkana](#4-senyawa-turunan-alkana)
-  - [5. Benzena & Turunannya](#5-senyawa-benzena-dan-turunannya)
+  - [5. Senyawa Benzena & Turunannya](#5-senyawa-benzena-dan-turunannya)
   - [6. Polimer & Makromolekul](#6-polimer-dan-makromolekul)
 
 ---
@@ -701,9 +701,7 @@ Reaksi redoks melibatkan **transfer elektron** antara atom atau ion, menghasilka
 Senyawa turunan alkana terbentuk dari penggantian satu atau lebih atom H pada alkana oleh **gugus fungsional** tertentu yang menentukan sifat dan reaktivitas.
 
 ### 5. Senyawa Benzena dan Turunannya
-**CP:** Menganalisis struktur aromatik & reaksi substitusi.  
-**Fokus:** arah orto/para/meta; aplikasi farmasi/industri.  
-**TKA selaras:** berpikir struktur–fungsi.
+Benzena (C₆H₆) merupakan senyawa **aromatik** dengan struktur cincin heksagonal yang sangat stabil karena adanya **resonansi ikatan π.**
 
 ### 6. Polimer dan Makromolekul
 **CP:** Menganalisis polimerisasi & jenis polimer alam/sintetis.  
