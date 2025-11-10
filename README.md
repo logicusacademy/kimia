@@ -687,9 +687,7 @@ Kimia hijau dikembangkan oleh Paul Anastas dan John Warner (1998) dengan 12 prin
 ## Kelas 12 — Integrasi & Aplikasi Kimia
 
 ### 1. Sifat Koligatif Larutan
-**CP:** Menjelaskan sifat yang bergantung pada jumlah partikel terlarut.  
-**Fokus:** penurunan tekanan uap, kenaikan Tb, penurunan Tf, tekanan osmotik; contoh penerapan.  
-**TKA selaras:** numerasi multi-langkah.
+Sifat koligatif adalah sifat larutan yang bergantung pada jumlah partikel zat terlarut, bukan jenis zatnya. Hal ini terjadi karena zat terlarut mengganggu aktivitas pelarut, mengubah tekanan uap, titik beku, titik didih, dan tekanan osmotik.
 
 ### 2. Reaksi Reduksi–Oksidasi (Redoks)
 **CP:** Menganalisis transfer elektron & penerapan redoks.  
