@@ -690,9 +690,7 @@ Kimia hijau dikembangkan oleh Paul Anastas dan John Warner (1998) dengan 12 prin
 Sifat koligatif adalah sifat larutan yang bergantung pada jumlah partikel zat terlarut, bukan jenis zatnya. Hal ini terjadi karena zat terlarut mengganggu aktivitas pelarut, mengubah tekanan uap, titik beku, titik didih, dan tekanan osmotik.
 
 ### 2. Reaksi Reduksi–Oksidasi (Redoks)
-**CP:** Menganalisis transfer elektron & penerapan redoks.  
-**Fokus:** biloks, setar reaksi, oksidator–reduktor.  
-**TKA selaras:** penalaran representasi (setengah reaksi).
+Reaksi redoks melibatkan **transfer elektron** antara atom atau ion, menghasilkan perubahan **bilangan oksidasi.**
 
 ### 3. Elektrokimia
 **CP:** Menjelaskan keterkaitan redoks–energi listrik.  
