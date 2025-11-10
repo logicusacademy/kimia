@@ -40,7 +40,7 @@ Silabus lengkap jenjang **SMA/MA** berdasarkan:
   - [1. Sifat Koligatif](#1-sifat-koligatif-larutan)
   - [2. Redoks](#2-reaksi-reduksioksidasi-redoks)
   - [3. Elektrokimia](#3-elektrokimia)
-  - [4. Turunan Alkana (Gugus Fungsi)](#4-senyawa-turunan-alkana)
+  - [4. Turunan Alkana](#4-senyawa-turunan-alkana)
   - [5. Benzena & Turunannya](#5-senyawa-benzena-dan-turunannya)
   - [6. Polimer & Makromolekul](#6-polimer-dan-makromolekul)
 
@@ -698,9 +698,7 @@ Reaksi redoks melibatkan **transfer elektron** antara atom atau ion, menghasilka
 **TKA selaras:** model–energi–fungsi.
 
 ### 4. Senyawa Turunan Alkana
-**CP:** Menjelaskan struktur, gugus fungsi, dan reaksi khas organik sederhana.  
-**Fokus:** alkohol, aldehid, keton, asam karboksilat, ester; tata nama & isomer.  
-**TKA selaras:** klasifikasi & pola reaksi.
+Senyawa turunan alkana terbentuk dari penggantian satu atau lebih atom H pada alkana oleh **gugus fungsional** tertentu yang menentukan sifat dan reaktivitas.
 
 ### 5. Senyawa Benzena dan Turunannya
 **CP:** Menganalisis struktur aromatik & reaksi substitusi.  
