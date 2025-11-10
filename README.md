@@ -704,9 +704,56 @@ Senyawa turunan alkana terbentuk dari penggantian satu atau lebih atom H pada al
 Benzena (C₆H₆) merupakan senyawa **aromatik** dengan struktur cincin heksagonal yang sangat stabil karena adanya **resonansi ikatan π.**
 
 ### 6. Polimer dan Makromolekul
-**CP:** Menganalisis polimerisasi & jenis polimer alam/sintetis.  
-**Fokus:** adisi vs kondensasi; biopolimer; material berkelanjutan.  
-**TKA selaras:** literasi material & keberlanjutan.
+Polimer dan makromolekul adalah dua istilah yang sering dianggap sama, padahal memiliki perbedaan penting. Semua polimer adalah makromolekul, tetapi tidak semua makromolekul adalah polimer. Polimer tersusun dari satuan kecil berulang yang disebut monomer, sedangkan makromolekul mencakup juga molekul besar lain yang tidak memiliki pola pengulangan, seperti lipid atau kompleks protein tertentu.
+
+1). Konsep Dasar
+
+Makromolekul: molekul berukuran sangat besar dengan massa molekul tinggi, bisa berupa polimer maupun non-polimer.
+
+Polimer: makromolekul yang tersusun dari satuan berulang (monomer) melalui reaksi polimerisasi.
+
+Polimerisasi: proses penggabungan monomer menjadi rantai panjang.
+
+Adisi: monomer bergabung tanpa menghasilkan zat lain.
+
+Kondensasi: monomer bergabung sambil melepaskan molekul kecil (biasanya air).
+
+
+Makromolekul alami: protein, karbohidrat, asam nukleat.
+
+Makromolekul sintetis: plastik, nilon, poliester, teflon.
+
+2). Jenis Polimer
+
+a). Berdasarkan asal: alami (selulosa, karet), sintetis (polietilena, polipropilena).
+
+b). Berdasarkan reaksi pembentuk: polimer adisi dan polimer kondensasi.
+
+c). Berdasarkan struktur rantai: linear, bercabang, silang (cross-linked).
+
+d). Berdasarkan sifat mekanik: termoplastik, termoset, elastomer.
+
+
+3). Mekanisme Polimerisasi
+
+a). Polimerisasi adisi: terjadi pada monomer dengan ikatan rangkap.
+
+Contoh: etena → polietena.
+
+
+b). Polimerisasi kondensasi: melibatkan dua gugus fungsi reaktif.
+
+Contoh: asam dikarboksilat + diol → poliester.
+
+4). Makromolekul dalam Biologi
+
+Protein: rantai panjang asam amino (ikatan peptida), tergolong polimer alami.
+
+Karbohidrat: hasil polimerisasi monosakarida (glukosa, fruktosa).
+
+Asam Nukleat: DNA/RNA, polimer nukleotida penyimpan informasi genetik.
+
+Makromolekul non-polimer: lipid besar, kompleks enzim atau supramolekul yang tidak memiliki satuan pengulangan tetap.
 
 [🔝 Kembali ke atas](#top)
 </details>
