@@ -761,6 +761,7 @@ Makromolekul non-polimer: lipid besar, kompleks enzim atau supramolekul yang tid
 ---
 
 ## References
+[General Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry)
 
 ## Legal
 © 2024–2025 Logicus Academy. All rights reserved.  
