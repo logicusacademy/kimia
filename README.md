@@ -22,7 +22,7 @@ Silabus lengkap jenjang **SMA/MA** berdasarkan:
   - [3. Sistem Periodik Unsur](#3-sistem-periodik-unsur)
   - [4. Ikatan Kimia](#4-ikatan-kimia)
   - [5. Tata Nama & Persamaan Reaksi](#5-tata-nama-senyawa-dan-persamaan-reaksi)
-  - [6. Larutan Elektrolit–Non-Elektrolit](#6-larutan-elektrolit-dan-non-elektrolit)
+  - [6. Larutan Elektrolit & Non-Elektrolit](#6-larutan-elektrolit-dan-non-elektrolit)
   - [7. Hukum Dasar Kimia & Stoikiometri](#7-hukum-dasar-kimia-dan-stoikiometri)
   - [8. Kimia Hijau & Nanoteknologi](#8-kimia-hijau-dan-nanoteknologi)
 - [Kelas 11 — Reaksi dan Energi](#kelas-11--reaksi-dan-energi)
