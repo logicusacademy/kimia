@@ -95,23 +95,23 @@ Ilmu tentang struktur atom berkembang melalui kajian ilmiah bertahap berdasarkan
 
 1). Model Atom Dalton
     
-  Atom merupakan partikel terkecil, tidak dapat dibagi, setiap unsur tersusun atas atom identik.
+Atom merupakan partikel terkecil, tidak dapat dibagi, setiap unsur tersusun atas atom identik.
 
 2). Model Atom Thomson
     
-  Atom bermuatan netral, terdiri dari elektron negatif tersebar dalam bola positif (“roti kismis”).
+Atom bermuatan netral, terdiri dari elektron negatif tersebar dalam bola positif (“roti kismis”).
 
 3). Model Atom Rutherford
   
-  Atom terdiri dari inti bermuatan positif (proton) dan elektron beredar di sekitarnya.
+Atom terdiri dari inti bermuatan positif (proton) dan elektron beredar di sekitarnya.
 
 4). Model Atom Bohr
  
-  Elektron bergerak pada lintasan (kulit) tertentu dengan energi tetap; energi dilepaskan/diserap saat berpindah kulit.
+Elektron bergerak pada lintasan (kulit) tertentu dengan energi tetap; energi dilepaskan/diserap saat berpindah kulit.
 
 5). Model Atom Mekanika Kuantum
   
-  Elektron tidak bergerak pada lintasan tetap, tetapi menempati orbital dengan probabilitas tertentu.
+Elektron tidak bergerak pada lintasan tetap, tetapi menempati orbital dengan probabilitas tertentu.
 
 Model mekanika kuantum menjelaskan bahwa elektron bersifat ganda (partikel dan gelombang), dan keberadaannya dijelaskan secara probabilistik, bukan deterministik.
 
