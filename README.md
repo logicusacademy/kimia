@@ -708,6 +708,8 @@ Polimer dan makromolekul adalah dua istilah yang sering dianggap sama, padahal m
 
 1). Konsep Dasar
 
+Istilah penting!
+
 Makromolekul: molekul berukuran sangat besar dengan massa molekul tinggi, bisa berupa polimer maupun non-polimer.
 
 Polimer: makromolekul yang tersusun dari satuan berulang (monomer) melalui reaksi polimerisasi.
