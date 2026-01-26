@@ -720,7 +720,6 @@ Adisi: monomer bergabung tanpa menghasilkan zat lain.
 
 Kondensasi: monomer bergabung sambil melepaskan molekul kecil (biasanya air).
 
-
 Makromolekul alami: protein, karbohidrat, asam nukleat.
 
 Makromolekul sintetis: plastik, nilon, poliester, teflon.
@@ -768,4 +767,3 @@ Makromolekul non-polimer: lipid besar, kompleks enzim atau supramolekul yang tid
 Disusun berdasarkan **BSKAP 046/H/KR/2025** (CP) dan **Perkaban 045/H/AN/2025** (TKA).
 
 [🔝 Kembali ke atas](#top)
-
