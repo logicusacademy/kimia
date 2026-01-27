@@ -704,7 +704,9 @@ Senyawa turunan alkana terbentuk dari penggantian satu atau lebih atom H pada al
 Benzena (C₆H₆) merupakan senyawa **aromatik** dengan struktur cincin heksagonal yang sangat stabil karena adanya **resonansi ikatan π.**
 
 ### 6. Polimer dan Makromolekul
-Polimer dan makromolekul adalah dua istilah yang sering dianggap sama, padahal memiliki perbedaan penting. Semua polimer adalah makromolekul, tetapi tidak semua makromolekul adalah polimer. Polimer tersusun dari satuan kecil berulang yang disebut monomer, sedangkan makromolekul mencakup juga molekul besar lain yang tidak memiliki pola pengulangan, seperti lipid atau kompleks protein tertentu.
+Polimer dan makromolekul adalah dua istilah yang sering dianggap sama, padahal memiliki perbedaan penting. Semua polimer adalah makromolekul, tetapi tidak semua makromolekul adalah polimer.
+
+Polimer tersusun dari satuan kecil berulang yang disebut monomer, sedangkan makromolekul mencakup juga molekul besar lain yang tidak memiliki pola pengulangan, seperti lipid atau kompleks protein tertentu.
 
 1). Konsep Dasar
 
