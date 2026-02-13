@@ -16,7 +16,7 @@ Silabus lengkap jenjang **SMA/MA** berdasarkan:
 
 ## Daftar Isi
 
-- [Kelas 10 — Fondasi Ilmu Kimia](#kelas-10--fondasi-ilmu-kimia)
+- [Kelas 10](#kelas-10)
   - [1. Hakikat Ilmu Kimia](#1-hakikat-ilmu-kimia)
   - [2. Struktur Atom](#2-struktur-atom)
   - [3. Sistem Periodik Unsur](#3-sistem-periodik-unsur)
@@ -25,7 +25,7 @@ Silabus lengkap jenjang **SMA/MA** berdasarkan:
   - [6. Larutan Elektrolit & Non-Elektrolit](#6-larutan-elektrolit-dan-non-elektrolit)
   - [7. Hukum Dasar Kimia & Stoikiometri](#7-hukum-dasar-kimia-dan-stoikiometri)
   - [8. Kimia Hijau & Nanoteknologi](#8-kimia-hijau-dan-nanoteknologi)
-- [Kelas 11 — Reaksi dan Energi](#kelas-11--reaksi-dan-energi)
+- [Kelas 11](#kelas-11)
   - [1. Senyawa Hidrokarbon & Minyak Bumi](#1-senyawa-hidrokarbon-dan-minyak-bumi)
   - [2. Termokimia](#2-termokimia)
   - [3. Kinetika Kimia (Laju Reaksi)](#3-kinetika-kimia-laju-reaksi)
@@ -36,7 +36,7 @@ Silabus lengkap jenjang **SMA/MA** berdasarkan:
   - [8. Titrasi Asam–Basa](#8-titrasi-asambasa)
   - [9. Kelarutan & Ksp](#9-kelarutan-dan-ksp)
   - [10. Sistem Koloid](#10-sistem-koloid)
-- [Kelas 12 — Integrasi & Aplikasi](#kelas-12--integrasi--aplikasi-kimia)
+- [Kelas 12](#kelas-12)
   - [1. Sifat Koligatif Larutan](#1-sifat-koligatif-larutan)
   - [2. Reaksi Redoks](#2-reaksi-reduksi-oksidasi-redoks)
   - [3. Elektrokimia](#3-elektrokimia)
