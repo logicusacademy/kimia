@@ -46,7 +46,7 @@ Silabus lengkap jenjang **SMA/MA** berdasarkan:
 
 ---
 
-## Kelas 10 — Fondasi Ilmu Kimia
+## Kelas 10
 
 ### 1. Hakikat Ilmu Kimia
 Kimia adalah cabang sains yang mempelajari materi, mencakup komposisi, struktur, sifat, perubahan, dan energi yang menyertainya.
@@ -627,7 +627,7 @@ Kimia hijau dikembangkan oleh Paul Anastas dan John Warner (1998) dengan 12 prin
 
 ---
 
-## Kelas 11 — Reaksi dan Energi
+## Kelas 11
 
 ### 1. Senyawa Hidrokarbon dan Minyak Bumi
 **CP:** Menganalisis struktur, sifat, dan perolehan senyawa karbon sederhana.  
@@ -684,7 +684,7 @@ Kimia hijau dikembangkan oleh Paul Anastas dan John Warner (1998) dengan 12 prin
 
 ---
 
-## Kelas 12 — Integrasi & Aplikasi Kimia
+## Kelas 12
 
 ### 1. Sifat Koligatif Larutan
 Sifat koligatif adalah sifat larutan yang bergantung pada jumlah partikel zat terlarut, bukan jenis zatnya. Hal ini terjadi karena zat terlarut mengganggu aktivitas pelarut, mengubah tekanan uap, titik beku, titik didih, dan tekanan osmotik.
