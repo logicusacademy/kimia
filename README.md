@@ -49,9 +49,9 @@ Silabus lengkap jenjang **SMA/MA** berdasarkan:
 ## Kelas 10
 
 ### 1. Hakikat Ilmu Kimia
-Kimia adalah cabang sains yang mempelajari materi, mencakup komposisi, struktur, sifat, perubahan, dan energi yang menyertainya.
+Ilmu kimia adalah cabang ilmu sains yang mempelajari materi, meliputi komposisi, struktur, sifat, perubahan, dan energi yang menyertai perubahan tersebut. Kimia tidak hanya mempelajari apa suatu zat, tetapi juga mengapa dan bagaimana zat tersebut berubah.
 
-Ilmu kimia berperan menjembatani berbagai disiplin ilmu — dari fisika dan biologi, hingga geologi, kedokteran, teknik, farmasi, dan lingkungan — karena hampir semua fenomena alam melibatkan perubahan zat dan energi. Oleh karena itu, kimia dikenal sebagai “Central of Science” (pusat dari ilmu pengetahuan), karena menjadi penghubung antara ilmu-ilmu alam (fisika, biologi, geosains) dan ilmu terapan (kedokteran, teknik, farmasi, lingkungan).
+Kimia berperan menjembatani berbagai disiplin ilmu — dari fisika dan biologi, hingga geologi, kedokteran, teknik, farmasi, dan lingkungan — karena hampir semua fenomena alam melibatkan perubahan zat dan energi. Oleh karena itu, kimia dikenal sebagai “Central of Science” (pusat dari ilmu pengetahuan), karena menjadi penghubung antara ilmu-ilmu alam (fisika, biologi, geosains) dan ilmu terapan (kedokteran, teknik, farmasi, lingkungan).
 
 #### 1.1. Ruang Lingkup Ilmu Kimia
 
