@@ -53,6 +53,14 @@ Ilmu kimia adalah cabang ilmu sains yang mempelajari materi, meliputi komposisi,
 
 Kimia berperan menjembatani berbagai disiplin ilmu — dari fisika dan biologi, hingga geologi, kedokteran, teknik, farmasi, dan lingkungan — karena hampir semua fenomena alam melibatkan perubahan zat dan energi. Oleh karena itu, kimia dikenal sebagai “Central of Science” (pusat dari ilmu pengetahuan), karena menjadi penghubung antara ilmu-ilmu alam (fisika, biologi, geosains) dan ilmu terapan (kedokteran, teknik, farmasi, lingkungan).
 
+Kajian kimia berlangsung pada tiga tingkat representasi, yaitu:
+
+1. Makroskopis → apa yang dapat diamati secara langsung (warna, endapan, gas, suhu).
+2. Mikroskopis → atom, ion, dan molekul yang tidak tampak.
+3. Simbolis → rumus kimia, persamaan reaksi, grafik, dan perhitungan.
+
+Ilmu kimia berkembang melalui metode ilmiah yang sistematis dan objektif, serta sangat bergantung pada eksperimen laboratorium. Oleh karena itu, keselamatan dan kesehatan kerja (K3) merupakan bagian yang tidak terpisahkan dari pembelajaran kimia.
+
 #### 1.1. Ruang Lingkup Ilmu Kimia
 
 1). Kimia Fisik: mempelajari energi dan perubahan pada zat (terkait fisika).
