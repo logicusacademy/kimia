@@ -61,7 +61,15 @@ Kajian kimia berlangsung pada tiga tingkat representasi, yaitu:
 
 Ilmu kimia berkembang melalui metode ilmiah yang sistematis dan objektif, serta sangat bergantung pada eksperimen laboratorium. Oleh karena itu, keselamatan dan kesehatan kerja (K3) merupakan bagian yang tidak terpisahkan dari pembelajaran kimia.
 
-#### 1.1. Ruang Lingkup Ilmu Kimia
+#### 1.1. Objek Kajian
+
+1). Materi: segala sesuatu yang memiliki massa dan volume
+
+2). Perubahan materi: fisika dan kimia
+
+3). Energi: menyertai perubahan materi
+
+#### 1.2. Ruang Lingkup
 
 1). Kimia Fisik: mempelajari energi dan perubahan pada zat (terkait fisika).
 
@@ -88,6 +96,32 @@ Contoh: metabolisme, enzim, fotosintesis.
 Contoh: polusi udara, limbah cair, ozon.
 
 Dengan ruang lingkup yang luas, kimia menjadi ilmu yang mengintegrasikan konsep energi, materi, dan kehidupan.
+
+#### 1.3. Metode Ilmiah
+
+Urutan umum metode ilmiah:
+
+1). Observasi
+
+2). Perumusan masalah
+
+3). Penyusunan hipotesis
+
+4). Percobaan (eksperimen)
+
+5). Pengolahan & analisis data
+
+6). Penarikan kesimpulan
+
+7). Komunikasi hasil
+
+Prinsip penting:
+
+1). Data harus objektif
+
+2). Kesimpulan harus sesuai data
+
+3). Percobaan harus dapat diulang
 
 ### 2. Struktur Atom
 Atom adalah partikel dasar penyusun seluruh materi di alam semesta. Segala sifat kimia dan fisika suatu zat ditentukan oleh susunan partikel subatomik (proton, neutron, dan elektron) serta konfigurasi elektron dalam atom tersebut.
