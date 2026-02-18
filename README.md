@@ -101,19 +101,19 @@ Dengan ruang lingkup yang luas, kimia menjadi ilmu yang mengintegrasikan konsep 
 
 Urutan umum metode ilmiah:
 
-1). Observasi
+1). Pengamatan atau Observasi
 
-2). Perumusan masalah
+2). Perumusan Masalah
 
-3). Penyusunan hipotesis
+3). Penyusunan Hipotesis
 
-4). Percobaan (eksperimen)
+4). Percobaan atau Eksperimen
 
-5). Pengolahan & analisis data
+5). Pengolahan dan Analisis Data
 
-6). Penarikan kesimpulan
+6). Penarikan Kesimpulan
 
-7). Komunikasi hasil
+7). Komunikasi Hasil
 
 Prinsip penting:
 
