@@ -123,6 +123,41 @@ Prinsip penting:
 
 3). Percobaan harus dapat diulang
 
+#### 1.4. Keselamatan dan Kesehatan Kerja (K3) di Laboratorium
+
+##### 1.4.1. Prinsip Dasar K3
+
+1). Melindungi diri, orang lain, dan lingkungan
+
+2). Mencegah kecelakaan & paparan bahan berbahaya
+
+##### 1.4.2. Alat Pelindung Diri (APD)
+
+1). Jas laboratorium
+
+2). Kacamata keselamatan
+
+3). Sarung tangan
+
+4). Masker (jika diperlukan)
+
+##### 1.4.3. Simbol Bahaya
+
+1). Mudah terbakar
+
+2). Mudah meledak
+
+3). Beracun
+
+4). Korosif
+
+5). Oksidator
+
+6). Iritan
+
+📌 Aturan emas:
+Tidak ada eksperimen yang lebih penting daripada keselamatan.
+
 ### 2. Struktur Atom
 Atom adalah partikel dasar penyusun seluruh materi di alam semesta. Segala sifat kimia dan fisika suatu zat ditentukan oleh susunan partikel subatomik (proton, neutron, dan elektron) serta konfigurasi elektron dalam atom tersebut.
 
