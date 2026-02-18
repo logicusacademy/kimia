@@ -159,13 +159,17 @@ Prinsip penting:
 Tidak ada eksperimen yang lebih penting daripada keselamatan.
 
 ### 2. Struktur Atom
-Atom adalah partikel dasar penyusun seluruh materi di alam semesta. Segala sifat kimia dan fisika suatu zat ditentukan oleh susunan partikel subatomik (proton, neutron, dan elektron) serta konfigurasi elektron dalam atom tersebut.
+Atom adalah partikel terkecil suatu unsur yang masih memiliki sifat unsur tersebut. Atom tersusun atas inti atom (proton dan neutron) serta elektron yang bergerak mengelilingi inti. Perkembangan pemahaman struktur atom menghasilkan beberapa model atom, dari model sederhana hingga model modern. Model atom modern menyatakan bahwa elektron tidak bergerak pada lintasan pasti, tetapi berada pada orbital dengan tingkat energi tertentu.
 
-Pemahaman struktur atom menjadi fondasi bagi seluruh cabang ilmu kimia, karena dari sinilah dapat dijelaskan:
+Pemahaman struktur atom menjadi dasar untuk:
 
-● mengapa unsur berbeda memiliki sifat berbeda,
+• konfigurasi elektron,
 
-● bagaimana atom bergabung membentuk molekul, dan ● bagaimana energi berperan dalam ikatan kimia dan reaksi.
+• sistem periodik unsur,
+
+• ikatan kimia, serta
+
+• sifat fisika dan kimia unsur.
 
 #### 2.1. Perkembangan Model Atom
 Ilmu tentang struktur atom berkembang melalui kajian ilmiah bertahap berdasarkan data eksperimen. Evolusi model atom menunjukkan bagaimana pemikiran ilmuwan berkembang dari konkret menuju abstrak dan kuantitatif.
