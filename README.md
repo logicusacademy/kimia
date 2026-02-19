@@ -236,7 +236,7 @@ Konfigurasi ini menentukan golongan dan periode unsur dalam tabel periodik:
 ● Jumlah kulit = periode unsur.
 
 ### 3. Sistem Periodik Unsur
-konfigurasi elektron, sehingga sifat-sifat unsur menunjukkan pola berulang (periodik). SPU bukan sekadar daftar unsur, tetapi peta konseptual struktur atom, yang menunjukkan keteraturan alami dalam perilaku unsur di alam.
+Sistem Periodik Unsur (SPU) adalah pengelompokan unsur-unsur kimia berdasarkan kenaikan nomor atom dan kesamaan konfigurasi elektron, sehingga sifat-sifat unsur menunjukkan pola berulang (periodik). SPU bukan sekadar daftar unsur, tetapi peta konseptual struktur atom, yang menunjukkan keteraturan alami dalam perilaku unsur di alam.
 
 Unsur-unsur disusun dalam:
 
