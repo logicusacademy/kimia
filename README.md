@@ -240,9 +240,9 @@ Sistem Periodik Unsur (SPU) adalah pengelompokan unsur-unsur kimia berdasarkan k
 
 Unsur-unsur disusun dalam:
 
-• periode (baris horizontal) → menunjukkan jumlah kulit elektron,
+• golongan (kolom vertikal) → menunjukkan jumlah elektron valensi (unsur golongan utama),
 
-• golongan (kolom vertikal) → menunjukkan jumlah elektron valensi (unsur golongan utama).
+• periode (baris horizontal) → menunjukkan jumlah kulit elektron.
 
 Keteraturan ini memungkinkan kita memprediksi sifat unsur, bahkan untuk unsur yang belum dikenal secara detail.
 
