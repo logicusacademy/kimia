@@ -238,14 +238,6 @@ Konfigurasi ini menentukan golongan dan periode unsur dalam tabel periodik:
 ### 3. Sistem Periodik Unsur
 Sistem Periodik Unsur (SPU) adalah pengelompokan unsur-unsur kimia berdasarkan kenaikan nomor atom dan kesamaan konfigurasi elektron, sehingga sifat-sifat unsur menunjukkan pola berulang (periodik). SPU bukan sekadar daftar unsur, tetapi peta konseptual struktur atom, yang menunjukkan keteraturan alami dalam perilaku unsur di alam.
 
-Unsur-unsur disusun dalam:
-
-• golongan (kolom vertikal) → menunjukkan jumlah elektron valensi (unsur golongan utama),
-
-• periode (baris horizontal) → menunjukkan jumlah kulit elektron.
-
-Keteraturan ini memungkinkan kita memprediksi sifat unsur, bahkan untuk unsur yang belum dikenal secara detail.
-
 #### 3.1. Sejarah Perkembangan Sistem Periodik
 Perkembangan SPU menunjukkan proses ilmiah: penyusunan data empiris, pencarian pola, dan penyempurnaan teori.
 
@@ -290,7 +282,9 @@ Tabel periodik modern memiliki 18 golongan (kolom vertikal) dan 7 periode (baris
    
    ● Blok d (unsur transisi)
    
-   ● Blok f (lantanida & aktinida) 
+   ● Blok f (lantanida & aktinida)
+
+Keteraturan ini memungkinkan kita memprediksi sifat unsur, bahkan untuk unsur yang belum dikenal secara detail.
 
 #### 3.3. Sifat Periodik Unsur
 Sifat-sifat unsur dalam tabel periodik menunjukkan pola periodik (berulang) yang terkait dengan konfigurasi elektron.
