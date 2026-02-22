@@ -483,9 +483,23 @@ Satu orang memegang dua tali dan menyerahkannya kepada temannya yang tidak punya
   ○ dapat ditempa & diregangkan.
 
 ### 5. Tata Nama Senyawa dan Persamaan Reaksi
-**CP:** Menerapkan IUPAC dasar dan menyetarakan reaksi.  
-**Fokus:** nama senyawa biner/oksida/asam-basa sederhana; hukum kekekalan massa.  
-**TKA selaras:** numerasi proporsi & stoikiometri dasar.
+Tata nama senyawa adalah aturan untuk memberikan nama pada senyawa berdasarkan komposisi dan jenis ikatannya. Penamaan mengikuti sistem IUPAC agar bersifat universal.
+
+Senyawa dibedakan menjadi:
+
+• senyawa ion (logam + nonlogam),
+
+• senyawa kovalen (nonlogam + nonlogam).
+
+Persamaan reaksi adalah representasi simbolik dari reaksi kimia yang menunjukkan:
+
+• zat pereaksi (reaktan),
+
+• zat hasil (produk),
+
+• perbandingan jumlah zat (koefisien).
+
+Persamaan reaksi harus memenuhi hukum kekekalan massa, sehingga harus disetarakan.
 
 ### 6. Larutan Elektrolit dan Non-Elektrolit
 
