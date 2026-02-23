@@ -557,11 +557,11 @@ Larutan dapat menghantarkan listrik apabila mengandung ion-ion bebas yang berger
 
 1). Ionisasi:
 
-Proses pembentukan ion dari molekul netral ketika dilarutkan dalam air, terjadi pada senyawa kovalen polar (misal: asam).
+Proses pembentukan ion dari molekul netral ketika dilarutkan dalam air, terjadi pada senyawa kovalen polar (misalnya asam kuat seperti HCl).
 
 2). Disosiasi:
 
-Proses pelepasan ion-ion yang sudah ada dalam senyawa ionik padat ketika dilarutkan, terjadi pada senyawa ionik (misal: garam, basa kuat).
+Proses pelepasan ion-ion yang sudah ada dalam senyawa ionik padat ketika dilarutkan, terjadi pada senyawa ionik (misalnya garam dan basa kuat).
 
 ### 7. Hukum Dasar Kimia dan Stoikiometri
 
