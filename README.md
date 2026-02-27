@@ -276,13 +276,13 @@ Tabel periodik modern memiliki 18 golongan (kolom vertikal) dan 7 periode (baris
 
 3). Blok unsur berdasarkan orbital terakhir:
    
-   ● Blok s (golongan 1 dan 2)
+   ● Blok-s (Golongan 1 dan 2)
    
-   ● Blok p (golongan 13–18)
+   ● Blok-p (Golongan 13–18)
    
-   ● Blok d (unsur transisi: golongan 3–12)
+   ● Blok-d (Logam Transisi Luar: Golongan 3–12)
    
-   ● Blok f (lantanida & aktinida)
+   ● Blok-f (Logam Transisi Dalam: Lantanida (4f) dan Aktinida (5f))
 
 Keteraturan ini memungkinkan kita memprediksi sifat unsur, bahkan untuk unsur yang belum dikenal secara detail.
 
