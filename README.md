@@ -280,7 +280,7 @@ Tabel periodik modern memiliki 18 golongan (kolom vertikal) dan 7 periode (baris
    
    ● Blok p (golongan 13–18)
    
-   ● Blok d (unsur transisi)
+   ● Blok d (unsur transisi: golongan 3–12)
    
    ● Blok f (lantanida & aktinida)
 
