@@ -751,9 +751,21 @@ Reaksi dibedakan menjadi:
 Besaran utama dalam termokimia adalah entalpi (H), yaitu energi total dalam sistem pada tekanan tetap.
 
 ### 3. Kinetika Kimia (Laju Reaksi)
-**CP:** Menjelaskan faktor laju & teori tumbukan.  
-**Fokus:** konsentrasi, suhu, luas permukaan, katalis; grafik laju.  
-**TKA selaras:** literasi data (kurva konsentrasi–waktu).
+Laju reaksi adalah perubahan konsentrasi zat per satuan waktu. Kinetika kimia tidak hanya melihat hasil reaksi, tetapi kecepatan proses menuju hasil tersebut.
+
+Laju reaksi dipengaruhi oleh:
+
+• konsentrasi pereaksi,
+
+• suhu,
+
+• luas permukaan,
+
+• katalis,
+
+• sifat zat.
+
+Secara mikroskopik, reaksi terjadi melalui tumbukan antarpartikel. Namun, tidak semua tumbukan menghasilkan reaksi—hanya tumbukan yang memenuhi energi aktivasi dan orientasi yang tepat (tumbukan efektif).
 
 ### 4. Kesetimbangan Kimia (Kc dan Kp)
 **CP:** Menjelaskan kesetimbangan dinamis & Le Chatelier.  
