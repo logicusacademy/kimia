@@ -768,9 +768,17 @@ Laju reaksi dipengaruhi oleh:
 Secara mikroskopik, reaksi terjadi melalui tumbukan antarpartikel. Namun, tidak semua tumbukan menghasilkan reaksi—hanya tumbukan yang memenuhi energi aktivasi dan orientasi yang tepat (tumbukan efektif).
 
 ### 4. Kesetimbangan Kimia (Kc dan Kp)
-**CP:** Menjelaskan kesetimbangan dinamis & Le Chatelier.  
-**Fokus:** Kc–Kp, pengaruh T/P, contoh industri (Haber/Contact).  
-**TKA selaras:** HOTS sebab–akibat sistemik.
+Kesetimbangan kimia adalah keadaan ketika laju reaksi maju sama dengan laju reaksi balik, sehingga konsentrasi zat tetap, tetapi reaksi tetap berlangsung (dinamis).
+
+Kesetimbangan terjadi pada reaksi reversibel dan dapat dijelaskan secara kuantitatif melalui tetapan kesetimbangan (K).
+
+Nilai K menunjukkan:
+
+• arah dominan reaksi,
+
+• komposisi campuran pada keadaan setimbang.
+
+Sistem kesetimbangan dapat berubah akibat gangguan (konsentrasi, suhu, tekanan), yang dijelaskan melalui Asas Le Chatelier.
 
 ### 5. Kesetimbangan Asam–Basa
 **CP:** Menganalisis konsep asam–basa & pH.  
