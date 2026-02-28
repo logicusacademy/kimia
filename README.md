@@ -851,9 +851,21 @@ Dalam titrasi terdapat dua titik penting:
 📌 Idealnya: titik akhir ≈ titik ekuivalen
 
 ### 9. Kelarutan dan Ksp
-**CP:** Menghitung kelarutan & hasil kali kelarutan.  
-**Fokus:** pengaruh ion senama, endapan selektif.  
-**TKA selaras:** pemecahan masalah kuantitatif.
+Kelarutan (s) adalah jumlah maksimum zat yang dapat larut dalam pelarut pada kondisi tertentu.
+
+Pada larutan jenuh terjadi kesetimbangan:
+
+    padatan ⇌ ion dalam larutan
+
+Ksp (hasil kali kelarutan) adalah konstanta kesetimbangan untuk zat yang sukar larut, yang menyatakan perkalian konsentrasi ion-ionnya dalam larutan jenuh.
+
+Nilai Ksp digunakan untuk:
+
+• menentukan kelarutan,
+
+• memprediksi pengendapan,
+
+• menganalisis efek ion senama.
 
 ### 10. Sistem Koloid
 **CP:** Mengidentifikasi jenis, sifat, dan penerapan koloid.  
