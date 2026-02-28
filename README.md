@@ -719,9 +719,19 @@ Kimia hijau dikembangkan oleh Paul Anastas dan John Warner (1998) dengan 12 prin
 ## Kelas 11
 
 ### 1. Senyawa Hidrokarbon dan Minyak Bumi
-**CP:** Menganalisis struktur, sifat, dan perolehan senyawa karbon sederhana.  
-**Fokus:** alkana/alkena/alkuna/aromatik; distilasi fraksionasi.  
-**TKA selaras:** klasifikasi & pemetaan proses.
+Hidrokarbon adalah senyawa organik yang hanya tersusun dari atom karbon (C) dan hidrogen (H). Keunikan atom karbon (tetravalen) memungkinkan terbentuknya berbagai struktur rantai, sehingga menghasilkan banyak jenis senyawa.
+
+Hidrokarbon dibagi menjadi:
+
+• alkana (jenuh)
+
+• alkena (tak jenuh, ikatan rangkap dua)
+
+• alkuna (tak jenuh, ikatan rangkap tiga)
+
+Selain itu, terdapat konsep isomer, yaitu senyawa dengan rumus molekul sama tetapi struktur berbeda.
+
+Minyak bumi adalah campuran kompleks hidrokarbon yang terbentuk dari sisa makhluk hidup purba dan dipisahkan melalui distilasi fraksional menjadi berbagai produk seperti LPG, bensin, dan solar.
 
 ### 2. Termokimia
 **CP:** Menjelaskan perubahan energi reaksi.  
