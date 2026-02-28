@@ -796,9 +796,25 @@ Kekuatan asam/basa ditentukan oleh derajat ionisasi, yang dinyatakan melalui kon
 pH digunakan untuk menyatakan tingkat keasaman larutan.
 
 ### 6. Larutan Garam Terhidrolisis
-**CP:** Menjelaskan hidrolisis garam dan sifat larutannya.  
-**Fokus:** garam pembentuk asam/basa/netral; pH garam.  
-**TKA selaras:** penalaran kausal.
+Hidrolisis garam adalah reaksi antara ion penyusun garam dengan air, yang menyebabkan larutan bersifat:
+
+• asam,
+
+• basa, atau
+
+• netral.
+
+Tidak semua garam mengalami hidrolisis. Sifat larutan garam ditentukan oleh asal asam dan basa penyusunnya:
+
+• asam kuat + basa kuat → tidak terhidrolisis (netral)
+
+• asam lemah + basa kuat → terhidrolisis sebagian (basa)
+
+• asam kuat + basa lemah → terhidrolisis sebagian (asam)
+
+• asam lemah + basa lemah → terhidrolisis total
+
+Hidrolisis merupakan kasus khusus kesetimbangan asam–basa dalam larutan.
 
 ### 7. Larutan Penyangga (Buffer)
 **CP:** Menjelaskan mekanisme dan fungsi buffer.  
