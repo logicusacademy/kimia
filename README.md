@@ -789,6 +789,8 @@ Menurut:
 
 • Brønsted–Lowry: asam = donor H⁺, basa = akseptor H⁺
 
+• Lewis: asam = penerima pasangan elektron, basa = pemberi pasangan elektron
+
 Kekuatan asam/basa ditentukan oleh derajat ionisasi, yang dinyatakan melalui konstanta kesetimbangan (Ka dan Kb).
 
 pH digunakan untuk menyatakan tingkat keasaman larutan.
