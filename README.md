@@ -836,9 +836,19 @@ Buffer sangat penting dalam:
 • laboratorium.
 
 ### 8. Titrasi Asam–Basa
-**CP:** Melakukan titrasi untuk menentukan konsentrasi.  
-**Fokus:** titik ekuivalen, indikator, perhitungan stoikiometri.  
-**TKA selaras:** numerasi praktis & interpretasi prosedur.
+Titrasi asam–basa adalah metode analisis kimia untuk menentukan konsentrasi suatu larutan dengan cara mereaksikannya dengan larutan lain yang konsentrasinya telah diketahui (larutan standar).
+
+Reaksi dasar:
+
+    Asam + Basa → Garam + Air
+
+Dalam titrasi terdapat dua titik penting:
+
+• Titik ekuivalen → jumlah mol asam = mol basa
+
+• Titik akhir → ditandai perubahan warna indikator
+
+📌 Idealnya: titik akhir ≈ titik ekuivalen
 
 ### 9. Kelarutan dan Ksp
 **CP:** Menghitung kelarutan & hasil kali kelarutan.  
