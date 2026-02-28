@@ -781,9 +781,17 @@ Nilai K menunjukkan:
 Sistem kesetimbangan dapat berubah akibat gangguan (konsentrasi, suhu, tekanan), yang dijelaskan melalui Asas Le Chatelier.
 
 ### 5. Kesetimbangan Asam–Basa
-**CP:** Menganalisis konsep asam–basa & pH.  
-**Fokus:** Arrhenius, Brønsted–Lowry, Lewis; Ka, Kb, Kw.  
-**TKA selaras:** numerasi logaritmik dasar.
+Asam–basa adalah sistem kesetimbangan dalam larutan yang melibatkan transfer proton (H⁺) atau pembentukan ion dalam air.
+
+Menurut:
+
+• Arrhenius: asam menghasilkan H⁺, basa menghasilkan OH⁻
+
+• Brønsted–Lowry: asam = donor H⁺, basa = akseptor H⁺
+
+Kekuatan asam/basa ditentukan oleh derajat ionisasi, yang dinyatakan melalui konstanta kesetimbangan (Ka dan Kb).
+
+pH digunakan untuk menyatakan tingkat keasaman larutan.
 
 ### 6. Larutan Garam Terhidrolisis
 **CP:** Menjelaskan hidrolisis garam dan sifat larutannya.  
