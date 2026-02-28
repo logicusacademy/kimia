@@ -817,9 +817,23 @@ Tidak semua garam mengalami hidrolisis. Sifat larutan garam ditentukan oleh asal
 Hidrolisis merupakan kasus khusus kesetimbangan asam–basa dalam larutan.
 
 ### 7. Larutan Penyangga (Buffer)
-**CP:** Menjelaskan mekanisme dan fungsi buffer.  
-**Fokus:** pasangan asam lemah–basa konjugat; aplikasi bio/industri.  
-**TKA selaras:** aplikasi kontekstual.
+Larutan penyangga (buffer) adalah larutan yang mampu menahan perubahan pH ketika ditambahkan sedikit asam, basa, atau saat pengenceran.
+
+Buffer tersusun dari:
+
+• asam lemah + basa konjugatnya (garam) → buffer asam
+
+• basa lemah + asam konjugatnya (garam) → buffer basa
+
+Kemampuan ini terjadi karena adanya kesetimbangan asam–basa yang dapat “menyerap” penambahan H⁺ atau OH⁻.
+
+Buffer sangat penting dalam:
+
+• sistem biologis (darah),
+
+• industri,
+
+• laboratorium.
 
 ### 8. Titrasi Asam–Basa
 **CP:** Melakukan titrasi untuk menentukan konsentrasi.  
