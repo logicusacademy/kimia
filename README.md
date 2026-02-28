@@ -868,9 +868,25 @@ Nilai Ksp digunakan untuk:
 • menganalisis efek ion senama.
 
 ### 10. Sistem Koloid
-**CP:** Mengidentifikasi jenis, sifat, dan penerapan koloid.  
-**Fokus:** efek Tyndall, koagulasi, aplikasi lingkungan/industri.  
-**TKA selaras:** literasi fenomena sehari-hari.
+Koloid adalah sistem dispersi dengan ukuran partikel antara 1–1000 nm, berada di antara larutan dan suspensi.
+
+Komponen utama:
+
+• fase terdispersi → zat yang tersebar
+
+• medium pendispersi → zat penyebar
+
+Koloid memiliki sifat khas yang membedakannya dari larutan dan suspensi, seperti:
+
+• efek Tyndall,
+
+• gerak Brown,
+
+• adsorpsi,
+
+• muatan listrik.
+
+Koloid banyak ditemukan dalam kehidupan sehari-hari, seperti susu, kabut, dan cat.
 
 [🔝 Kembali ke atas](#top)
 </details>
