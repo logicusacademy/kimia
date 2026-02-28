@@ -734,9 +734,21 @@ Selain itu, terdapat konsep isomer, yaitu senyawa dengan rumus molekul sama teta
 Minyak bumi adalah campuran kompleks hidrokarbon yang terbentuk dari sisa makhluk hidup purba dan dipisahkan melalui distilasi fraksional menjadi berbagai produk seperti LPG, bensin, dan solar.
 
 ### 2. Termokimia
-**CP:** Menjelaskan perubahan energi reaksi.  
-**Fokus:** ΔH, eksoterm–endoterm, hukum Hess, efisiensi energi.  
-**TKA selaras:** penalaran analitik & perhitungan energi.
+Termokimia adalah cabang kimia yang mempelajari perubahan energi panas (kalor) yang menyertai reaksi kimia atau perubahan fisika.
+
+Dalam suatu sistem:
+
+• Sistem = bagian yang dikaji
+
+• Lingkungan = segala sesuatu di luar sistem
+
+Reaksi dibedakan menjadi:
+
+• Eksoterm → melepas kalor (ΔH < 0)
+
+• Endoterm → menyerap kalor (ΔH > 0)
+
+Besaran utama dalam termokimia adalah entalpi (H), yaitu energi total dalam sistem pada tekanan tetap.
 
 ### 3. Kinetika Kimia (Laju Reaksi)
 **CP:** Menjelaskan faktor laju & teori tumbukan.  
