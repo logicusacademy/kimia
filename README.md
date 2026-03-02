@@ -930,9 +930,29 @@ Redoks menjadi dasar berbagai proses penting seperti:
 • metabolisme.
 
 ### 3. Elektrokimia
-**CP:** Menjelaskan keterkaitan redoks–energi listrik.  
-**Fokus:** sel Galvani, sel elektrolisis, potensial sel, hukum Faraday, baterai & korosi.  
-**TKA selaras:** model–energi–fungsi.
+Elektrokimia mempelajari reaksi redoks yang berkaitan dengan aliran elektron dan energi listrik.
+
+Terdapat dua sistem utama:
+
+1. Sel Volta (Galvani)
+
+• Reaksi spontan
+
+• Menghasilkan listrik
+
+2. Sel Elektrolisis
+
+• Reaksi tidak spontan
+
+• Membutuhkan listrik
+
+Konsep utama:
+
+• oksidasi dan reduksi selalu berpasangan,
+
+• elektron mengalir dari anoda ke katoda,
+
+• potensial sel menentukan spontanitas reaksi.
 
 ### 4. Senyawa Turunan Alkana
 Senyawa turunan alkana terbentuk dari penggantian satu atau lebih atom H pada alkana oleh **gugus fungsional** tertentu yang menentukan sifat dan reaktivitas.
