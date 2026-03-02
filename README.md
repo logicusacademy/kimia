@@ -990,7 +990,19 @@ Pemahaman turunan alkana menjadi dasar untuk:
 • biokimia dan industri
 
 ### 5. Senyawa Benzena dan Turunannya
-Benzena (C₆H₆) merupakan senyawa **aromatik** dengan struktur cincin heksagonal yang sangat stabil karena adanya **resonansi ikatan π.**
+Benzena (C₆H₆) merupakan senyawa **aromatik** dengan struktur cincin heksagonal yang sangat stabil karena memilik ikatan π terdelokalisasi (resonansi).
+
+Ciri utama:
+
+• semua ikatan setara,
+
+• stabil secara kimia (aromatis),
+
+• cenderung mengalami reaksi substitusi, bukan adisi.
+
+Turunan benzena terbentuk dari penggantian atom H dengan gugus lain (–OH, –CH₃, –NO₂, dll).
+
+Reaksi khas benzena adalah substitusi elektrofilik aromatik.
 
 ### 6. Polimer dan Makromolekul
 Polimer dan makromolekul adalah dua istilah yang sering dianggap sama, padahal memiliki perbedaan penting. Semua polimer adalah makromolekul, tetapi tidak semua makromolekul adalah polimer.
