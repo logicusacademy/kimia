@@ -957,6 +957,38 @@ Konsep utama:
 ### 4. Senyawa Turunan Alkana
 Senyawa turunan alkana terbentuk dari penggantian satu atau lebih atom H pada alkana oleh **gugus fungsional** tertentu yang menentukan sifat dan reaktivitas.
 
+Senyawa turunan alkana adalah senyawa organik yang terbentuk dari alkana melalui substitusi (penggantian) satu atau lebih atom hidrogen (H) dengan gugus fungsi tertentu.
+
+Gugus fungsi menentukan:
+
+• sifat kimia,
+
+• reaktivitas,
+
+• kegunaan senyawa.
+
+Beberapa golongan penting:
+
+• haloalkana,
+
+• alkohol,
+
+• eter,
+
+• aldehida,
+
+• keton,
+
+• asam karboksilat,
+
+• ester.
+
+Pemahaman turunan alkana menjadi dasar untuk:
+
+• kimia organik lanjutan
+
+• biokimia dan industri
+
 ### 5. Senyawa Benzena dan Turunannya
 Benzena (C₆H₆) merupakan senyawa **aromatik** dengan struktur cincin heksagonal yang sangat stabil karena adanya **resonansi ikatan π.**
 
