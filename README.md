@@ -896,7 +896,15 @@ Koloid banyak ditemukan dalam kehidupan sehari-hari, seperti susu, kabut, dan ca
 ## Kelas 12
 
 ### 1. Sifat Koligatif Larutan
-Sifat koligatif adalah sifat larutan yang bergantung pada jumlah partikel zat terlarut, bukan jenis zatnya. Hal ini terjadi karena zat terlarut mengganggu aktivitas pelarut, mengubah tekanan uap, titik beku, titik didih, dan tekanan osmotik.
+Sifat koligatif larutan adalah sifat fisika larutan yang bergantung pada jumlah partikel zat terlarut, bukan jenis zatnya. Hal ini terjadi karena zat terlarut mengganggu aktivitas pelarut dalam suatu larutan.
+
+Empat sifat utama:
+1. Penurunan tekanan uap
+2. Kenaikan titik didih
+3. Penurunan titik beku
+4. Tekanan osmotik
+
+Pada larutan elektrolit, jumlah partikel menjadi lebih banyak karena terjadi ionisasi, sehingga digunakan faktor van’t Hoff (i).
 
 ### 2. Reaksi Reduksi–Oksidasi (Redoks)
 Reaksi redoks melibatkan **transfer elektron** antara atom atau ion, menghasilkan perubahan **bilangan oksidasi.**
