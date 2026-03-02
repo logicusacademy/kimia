@@ -907,7 +907,27 @@ Empat sifat utama:
 Pada larutan elektrolit, jumlah partikel menjadi lebih banyak karena terjadi ionisasi, sehingga digunakan faktor van’t Hoff (i).
 
 ### 2. Reaksi Reduksi–Oksidasi (Redoks)
-Reaksi redoks melibatkan **transfer elektron** antara atom atau ion, menghasilkan perubahan **bilangan oksidasi.**
+Reaksi redoks adalah reaksi yang melibatkan perpindahan elektron atau perubahan bilangan oksidasi (biloks).
+
+Definisi:
+
+• Oksidasi → pelepasan elektron / kenaikan biloks
+
+• Reduksi → penerimaan elektron / penurunan biloks
+
+Dalam setiap reaksi redoks:
+
+• selalu terjadi oksidasi dan reduksi secara bersamaan
+
+• terdapat zat pereduksi (reduktor) dan zat pengoksidasi (oksidator)
+
+Redoks menjadi dasar berbagai proses penting seperti:
+
+• elektrokimia,
+
+• korosi,
+
+• metabolisme.
 
 ### 3. Elektrokimia
 **CP:** Menjelaskan keterkaitan redoks–energi listrik.  
