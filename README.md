@@ -1019,7 +1019,9 @@ Hubungan konsep:
 
 Contoh sederhana:
 
-(etena → polietena)
+    nCH₂=CH₂ → (–CH₂–CH₂–)n
+
+    (etena → polietena)
 
 Polimer sangat penting dalam:
 
