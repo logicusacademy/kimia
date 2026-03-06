@@ -1007,7 +1007,29 @@ Reaksi khas benzena adalah substitusi elektrofilik aromatik.
 ### 6. Polimer dan Makromolekul
 Polimer dan makromolekul adalah dua istilah yang sering dianggap sama, padahal memiliki perbedaan penting. Semua polimer adalah makromolekul, tetapi tidak semua makromolekul adalah polimer.
 
-Polimer tersusun dari satuan kecil berulang yang disebut monomer, sedangkan makromolekul mencakup juga molekul besar lain yang tidak memiliki pola pengulangan, seperti lipid atau kompleks protein tertentu.
+Polimer merupakan molekul yang terbentuk dari penggabungan unit penyusun kecil berulang yang disebut monomer (melalui reaksi polimerisasi), sedangkan makromolekul merupakan molekul berukuran sangat besar yang tersusun dari banyak atom dengan massa molekul tinggi (yang tidak memiliki pola pengulangan), seperti lipid atau kompleks protein tertentu.
+
+Hubungan konsep:
+
+• Monomer → unit penyusun kecil
+
+• Polimerisasi → proses penggabungan
+
+• Polimer → rantai panjang molekul
+
+Contoh sederhana:
+
+(etena → polietena)
+
+Polimer sangat penting dalam:
+
+• bahan plastik,
+
+• tekstil,
+
+• karet,
+
+• biopolimer (protein, DNA).
 
 1). Konsep Dasar
 
