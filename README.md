@@ -619,12 +619,12 @@ Perbandingan volume:
 Pada suhu dan tekanan yang sama, volume gas yang sama besarnya mengandung jumlah partikel (molekul) yang sama.
 
 Bunyi hukum yang diterjemahkan dari formulasi asli Avogadro dalam Essay on the Relative Masses of the Elementary Molecules (1811):
-
+       
        “Volume gas-gas yang sama pada suhu dan tekanan yang sama mengandung jumlah molekul yang sama.”
 
 Implikasi dari hukum Avogadro adalah bahwa volume gas berbanding lurus dengan jumlah mol gas, sehingga dapat dinyatakan secara matematis:
 
-V 
+V ∝ n
 
 atau
 
