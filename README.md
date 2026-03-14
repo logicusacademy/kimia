@@ -579,25 +579,35 @@ Pemahaman hukum dasar kimia dan stoikiometri memungkinkan siswa:
 
 #### 7.1. Hukum Dasar Kimia
 
-1). Hukum Kekekalan Massa – Antoine Lavoisier (1789)
-
-Massa zat sebelum dan sesudah reaksi kimia adalah tetap. Tidak ada massa yang hilang, hanya berubah bentuk.
-
-2). Hukum Perbandingan Tetap – Joseph Proust (1799)
-
-Suatu senyawa selalu mengandung unsur-unsur penyusunnya dengan perbandingan massa yang tetap.
-
-3). Hukum Perbandingan Berganda – John Dalton (1803)
-
-Jika dua unsur membentuk lebih dari satu senyawa, maka perbandingan massa salah satu unsur yang bergabung dengan unsur lainnya adalah bilangan bulat sederhana.
-
-4). Hukum Perbandingan Volume – Joseph Gay-Lussac (1808)
-
-Volume gas-gas yang bereaksi dan hasilnya pada suhu dan tekanan sama, berbanding bilangan bulat sederhana.
-
-5). Hukum Avogadro – Amedeo Avogadro (1811)
-
-Volume gas-gas yang sama pada suhu dan tekanan sama mengandung jumlah molekul yang sama.
+1. Hukum Kekekalan Massa – Antoine Lavoisier (1789)
+Dalam setiap reaksi kimia yang berlangsung dalam sistem tertutup, massa total zat sebelum reaksi sama dengan massa total zat setelah reaksi.
+Bunyi yang mendekati formulasi Lavoisier dalam Traité Élémentaire de Chimie (1789):
+“Dalam setiap operasi kimia, jumlah materi tetap sama sebelum dan sesudah reaksi; tidak ada yang hilang dan tidak ada yang tercipta.”
+Secara matematis:
+2. Hukum Perbandingan Tetap – Joseph Proust (1799)
+Suatu senyawa kimia murni selalu tersusun dari unsur-unsur yang sama dengan perbandingan massa yang tetap dan tertentu, tanpa bergantung pada sumber atau cara pembentukannya.
+Formulasi ilmiah yang dikemukakan Proust:
+“Senyawa kimia selalu mengandung unsur-unsur yang sama dalam proporsi massa yang tetap.”
+Contoh:
+Air (H₂O) selalu memiliki perbandingan massa H : O = 1 : 8.
+3. Hukum Perbandingan Berganda – John Dalton (1803)
+Jika dua unsur dapat membentuk lebih dari satu senyawa, maka massa salah satu unsur yang bergabung dengan massa tetap unsur lainnya akan berbanding sebagai bilangan bulat sederhana.
+Dalton menyatakan prinsip ini dalam teori atomnya:
+“Ketika dua unsur membentuk lebih dari satu senyawa, massa salah satu unsur yang bergabung dengan massa tertentu unsur lainnya berada dalam perbandingan bilangan bulat kecil.”
+Contoh:
+CO dan CO₂
+Perbandingan massa O yang bereaksi dengan C tetap:
+4. Hukum Perbandingan Volume – Joseph Gay-Lussac (1808)
+Pada suhu dan tekanan yang sama, volume gas-gas yang bereaksi dan volume gas hasil reaksi berbanding sebagai bilangan bulat sederhana.
+Pernyataan Gay-Lussac dalam penelitian gas:
+“Gas-gas yang bereaksi satu sama lain berada dalam rasio volume yang sederhana ketika diukur pada suhu dan tekanan yang sama.”
+Contoh:
+Perbandingan volume:
+5. Hukum Avogadro – Amedeo Avogadro (1811)
+Pada suhu dan tekanan yang sama, volume gas yang sama besarnya mengandung jumlah partikel (molekul) yang sama.
+Hipotesis Avogadro dalam Essay on the Relative Masses of the Elementary Molecules (1811):
+“Equal volumes of gases, at the same temperature and pressure, contain the same number of molecules.”
+Konsekuensinya:
 
 #### 7.2. Hubungan Hukum Dasar Kimia dan Teori Atom Dalton
 
