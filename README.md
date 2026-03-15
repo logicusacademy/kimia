@@ -1129,6 +1129,3 @@ Makromolekul non-polimer: lipid besar, kompleks enzim atau supramolekul yang tid
 Disusun berdasarkan **BSKAP 046/H/KR/2025** (CP) dan **Perkaban 045/H/AN/2025** (TKA).
 
 [🔝 Kembali ke atas](#top)
-
-
-
