@@ -113,7 +113,7 @@ Urutan umum metode ilmiah:
 
 6). Penarikan Kesimpulan
 
-7). Publikasi dan Komunikasi Hasil Percobaan
+7). Publikasi dan Komunikasi Hasil Penelitian
 
 Prinsip penting:
 
